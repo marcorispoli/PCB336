@@ -1,6 +1,6 @@
 (ExpressProject ""
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[01/26/26]")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[01/29/26]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
@@ -28,6 +28,14 @@
       (Sort User)))
   (Folder "Logs")
   (PartMRUSelector
+    ("INDUCTOR IRON"
+      (FullPartName "INDUCTOR IRON.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (BEAD_BLM18BD102
+      (FullPartName "BEAD_BLM18BD102.Normal")
+      (LibraryName "D:\DATA\ORCAD\LIBRERIA\CAPTURE\PASSIVI.OLB")
+      (DeviceIndex "0"))
     (LTC7065
       (FullPartName "LTC7065.Normal")
       (LibraryName "D:\GIT\HW\PCB336\ORCAD\LIBRARY.OLB")
@@ -84,32 +92,23 @@
       (Path "Design Resources" ".\25-336-0.dsn")
       (Path "Design Resources" ".\25-336-0.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library" "D:\GIT\HW\PCB336\ORCAD\library.olb")
-      (Select "Design Resources" "Library" "D:\GIT\HW\PCB336\ORCAD\library.olb"
-         "LTC7065"))
+      (Select "Design Resources" ".\25-336-0.dsn" "SCHEMATIC1" "LOAD"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 335 0 888"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 318 0 911"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1324 24 929")
-        (Scroll "-18 0")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1270 24 929")
+        (Scroll "0 0")
         (Zoom "107")
         (Occurrence "/"))
-      (Path "D:\GIT\HW\PCB336\ORCAD\25-336-0.DSN")
+      (Path
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-25-336\ORCAD\25-336-0.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "BOOST_CONVERTER"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1324 24 929")
-        (Scroll "-18 0")
-        (Zoom "107")
-        (Occurrence "/"))
-      (Path "D:\GIT\HW\PCB336\ORCAD\25-336-0.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "uC"))))
+      (Page "BOOST_CONVERTER")))
+  (MPSSessionName "marco")
+  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_17.4\tools\capture\library"))

@@ -14,7 +14,23 @@
     (DOCKED "TRUE")
     (DOCKING_POSITION "59420")
     (NoModify)
-    (Display_Online_DRC_Results "FALSE"))
+    (Display_Online_DRC_Results "FALSE")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80"))
   (Folder "Layout")
   (Folder "Outputs")
   (Folder "Referenced Projects")
@@ -96,36 +112,61 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\25-336-0.dsn")
-      (Path "Design Resources" ".\25-336-0.dsn" "SCHEMATIC1")
-      (Path "Design Resources" "Library")
-      (Select "Design Resources" ".\25-336-0.dsn" "SCHEMATIC1"
-         "BOOST_CONVERTER"))
+      (Path "Design Resources"
+         "c:\users\marco\documents\data\progetti-git\hw\pcb-25-336\orcad\25-336-0.dsn")
+      (Path "Design Resources"
+         "c:\users\marco\documents\data\progetti-git\hw\pcb-25-336\orcad\25-336-0.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources" "Library"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 547 0 911"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 292 0 911"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1168 24 929")
-        (Scroll "0 -7")
-        (Zoom "104")
+        (Placement "44 0 1 -1 -1 5 24 5 1296 24 929")
+        (Scroll "-4 1")
+        (Zoom "107")
         (Occurrence "/"))
-      (Path "D:\GIT\HW\PCB336\ORCAD\25-336-0.DSN")
+      (Path
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-25-336\ORCAD\25-336-0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "BOOST_CONVERTER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 0 0 5 1296 24 929")
+        (Scroll "-4 0")
+        (Zoom "107")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-25-336\ORCAD\25-336-0.DSN")
       (Schematic "SCHEMATIC1")
       (Page "INPUT"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1168 24 929")
-        (Scroll "0 -7")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1296 24 929")
+        (Scroll "-21 -7")
         (Zoom "104")
         (Occurrence "/"))
-      (Path "D:\GIT\HW\PCB336\ORCAD\25-336-0.DSN")
+      (Path
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-25-336\ORCAD\25-336-0.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "BOOST_CONVERTER")))
-  (MPSSessionName "user")
+      (Page "LOAD"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1296 24 929")
+        (Scroll "-21 -7")
+        (Zoom "104")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-25-336\ORCAD\25-336-0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "CAN BUS")))
+  (MPSSessionName "marco")
   (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_17.4\tools\capture\library"))

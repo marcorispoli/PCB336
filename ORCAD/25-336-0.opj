@@ -1,5 +1,6 @@
 (ExpressProject ""
   (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[02/22/26]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -15,7 +16,10 @@
     (LAYOUT_Units "0")
     (FALSE)
     (FALSE)
-    (FALSE))
+    (FALSE)
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420"))
+  (Folder "Layout")
   (Folder "Outputs"
     (File ".\25-336-0.mnl"
       (Type "LAYOUT Netlist File")))
@@ -27,42 +31,55 @@
       (Path "Design Resources" ".\25-336-0.dsn")
       (Path "Design Resources" ".\25-336-0.dsn" "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources" ".\25-336-0.dsn"))
+      (Select "Design Resources" ".\25-336-0.dsn" "SCHEMATIC1"
+         "BOOST_CONVERTER"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 247 0 541"))
+        (Placement "44 2 3 -1 -1 0 0 0 247 0 541"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 208 1793 208 788")
-        (Scroll "-8 0")
-        (Zoom "130")
-        (Occurrence "/"))
-      (Path "E:\00.LAVORI IN CORSO\METALTRONICA\25-336-0\25-336-0.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "LOAD"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1693 104 688")
-        (Scroll "-186 0")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1388 24 631")
+        (Scroll "-91 0")
         (Zoom "100")
         (Occurrence "/"))
-      (Path "E:\00.LAVORI IN CORSO\METALTRONICA\25-336-0\25-336-0.DSN")
+      (Path
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-25-336\ORCAD\25-336-0.DSN")
       (Schematic "SCHEMATIC1")
       (Page "INPUT"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1693 104 688")
-        (Scroll "-186 0")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1388 24 631")
+        (Scroll "-91 80")
         (Zoom "100")
         (Occurrence "/"))
-      (Path "E:\00.LAVORI IN CORSO\METALTRONICA\25-336-0\25-336-0.DSN")
+      (Path
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-25-336\ORCAD\25-336-0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "LOAD"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1388 24 631")
+        (Scroll "-91 1")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-25-336\ORCAD\25-336-0.DSN")
       (Schematic "SCHEMATIC1")
       (Page "BOOST_CONVERTER")))
   (ISPCBBASICLICENSE "false")
-  (MPSSessionName "Osvaldo"))
+  (MPSSessionName "marco")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"))

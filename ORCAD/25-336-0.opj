@@ -1,6 +1,6 @@
 (ExpressProject ""
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[07/01/26]")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[07/02/26]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
@@ -22,7 +22,7 @@
     (DOCKED "TRUE")
     (DOCKING_POSITION "59420")
     (Display_Online_DRC_Results "FALSE")
-    (ANNOTATE_Scope "1")
+    (ANNOTATE_Scope "0")
     (ANNOTATE_Mode "1")
     (ANNOTATE_Action "2")
     (Annotate_Page_Order "0")
@@ -37,11 +37,26 @@
     (Annotate_type "Default")
     (width_pages "100")
     (width_start "80")
-    (width_End "80"))
+    (width_End "80")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File "D:\GIT\HW\PCB336\ORCAD\25-336-0.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{Descrizione}\t{Package}\t{PN}\t{Note}")
+    (BOM_Header
+       "Item\tQuantity\tReference\tValue\tDescription\tPackage\tPN\tNote")
+    (BOM_Include_File "D:\GIT\HW\PCB336\ORCAD\25-336-0.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE"))
   (Folder "Layout")
   (Folder "Outputs"
     (File ".\25-336-0.mnl"
-      (Type "LAYOUT Netlist File")))
+      (Type "LAYOUT Netlist File"))
+    (File ".\25-336-0.bom"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
     (MAX9016AEKA+T
@@ -85,15 +100,24 @@
       (Path "Design Resources" ".\25-336-0.dsn")
       (Path "Design Resources" ".\25-336-0.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library" "D:\GIT\HW\PCB336\ORCAD\library.olb")
       (Path "Outputs")
-      (Select "Design Resources" ".\25-336-0.dsn" "SCHEMATIC1" "uC"))
+      (Select "Design Resources" ".\25-336-0.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 0 0 0 247 0 541"))
-      (Tab 0)))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1418 24 929")
+        (Scroll "-82 -7")
+        (Zoom "104")
+        (Occurrence "/"))
+      (Path "D:\GIT\HW\PCB336\ORCAD\25-336-0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "CAN BUS")))
   (ISPCBBASICLICENSE "false")
   (MPSSessionName "user")
   (Folder "PSpice Resources"

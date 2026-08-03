@@ -1,0 +1,368 @@
+(footprint "ICEL_Axial_L46.0mm_D13.0mm_P52.00mm_Horizontal"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "CP, Axial series, Axial, Horizontal, pin pitch=52mm, length*diameter=46*20mm^2, Electrolytic Capacitor")
+	(tags "CP Axial series Axial Horizontal pin pitch 52mm  length 46mm diameter 20mm Electrolytic Capacitor")
+	(property "Reference" "REF**"
+		(at 5 -12.2 0)
+		(layer "F.SilkS")
+		(uuid "546a28e2-fa6f-4e34-8b2c-9ffb8e0f54d5")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.2)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "ICEL_Axial_L46.0mm_D13.0mm_P52.00mm_Horizontal"
+		(at 26 4 0)
+		(layer "F.Fab")
+		(uuid "a804cf8d-1ab6-4316-ad6b-ba45acfa574e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ebccb17e-6f16-47fd-a149-4da24bd44aab")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "98c912cc-4f67-444c-af72-373dbd898f5a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "KiLib_Generator" "capacitor/THT/other"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "929894f2-01d9-439e-93b6-edd7746d9c54")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start 2.88 -10.12)
+		(end 2.88 2.88)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e74026f3-c189-4f03-ac0d-8365437f3cab")
+	)
+	(fp_line
+		(start 2.88 -10.12)
+		(end 4.98 -10.12)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f84ae3ee-4a7f-476e-95b0-5bc7971f35ca")
+	)
+	(fp_line
+		(start 2.88 3)
+		(end 4.98 3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4839aa0b-2449-4666-8613-f33fefaf0fff")
+	)
+	(fp_line
+		(start 3.8 -3.4)
+		(end 5.9 -3.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3f452a21-c7c2-4563-8808-ed05aa7ca1d2")
+	)
+	(fp_line
+		(start 4.85 -4.45)
+		(end 4.85 -2.35)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ed6056f9-0ac0-4725-8a43-bf49a8aaa035")
+	)
+	(fp_line
+		(start 4.98 -10.12)
+		(end 6.03 -9.07)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "807e6f7f-0440-40ca-bfee-a61b72c15de9")
+	)
+	(fp_line
+		(start 4.98 3)
+		(end 6.03 1.95)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7467e00b-d1e5-40c5-82ea-85585a749238")
+	)
+	(fp_line
+		(start 6.03 -9.07)
+		(end 7.08 -10.12)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2b986636-0af5-4f4f-9f88-f7e618c92d0e")
+	)
+	(fp_line
+		(start 6.03 1.95)
+		(end 7.08 3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d3f22c7f-7937-4a3a-927e-8f97e6499f51")
+	)
+	(fp_line
+		(start 7.08 -10.12)
+		(end 49.12 -10.12)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "97425832-24ff-4923-98bd-6b8a60a9c43e")
+	)
+	(fp_line
+		(start 7.08 3)
+		(end 49.12 3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6b4811c0-8b02-4f5c-bdc2-dec1fe497d5e")
+	)
+	(fp_line
+		(start 49.12 -10.12)
+		(end 49.12 2.88)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "45540d79-80f0-467c-bbc9-a7a66990d8eb")
+	)
+	(fp_rect
+		(start -1.65 -10.25)
+		(end 53.65 3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "757565ee-abe0-451c-9449-0b1b47fe119f")
+	)
+	(fp_line
+		(start 0 0)
+		(end 3 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e5761234-059a-444e-be9f-528e8e1cdbbe")
+	)
+	(fp_line
+		(start 3 -10)
+		(end 3 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "14afe423-4c1f-472d-ac11-c49c67d61967")
+	)
+	(fp_line
+		(start 3 -10)
+		(end 4.98 -10)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "178d03a4-236d-4f36-9723-fd84697ca805")
+	)
+	(fp_line
+		(start 3 2.88)
+		(end 4.98 2.88)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e523a78d-36cc-4837-a8a2-b6f3f6ecd630")
+	)
+	(fp_line
+		(start 4.98 -10)
+		(end 6.03 -8.95)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8fbdab2b-d052-4c9c-9410-4675d44ddb2d")
+	)
+	(fp_line
+		(start 4.98 2.88)
+		(end 6.03 1.83)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fc36cff4-64dd-4493-9e71-c72d800a759f")
+	)
+	(fp_line
+		(start 5 0)
+		(end 7.1 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9fd1acb1-f550-4036-91ac-0f6d996ede81")
+	)
+	(fp_line
+		(start 6.03 -8.95)
+		(end 7.08 -10)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9f0e2e26-f4c6-4e1a-88fa-45525c2ca21c")
+	)
+	(fp_line
+		(start 6.03 1.83)
+		(end 7.08 2.88)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7c93ff93-1cc7-4461-a1f8-856241208a92")
+	)
+	(fp_line
+		(start 7.08 -10)
+		(end 49 -10)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0eed8be0-70ae-4b36-b097-497b396af6c2")
+	)
+	(fp_line
+		(start 7.08 2.88)
+		(end 49 2.88)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "93d40498-005b-4330-a1a3-e9c75c531909")
+	)
+	(fp_line
+		(start 49 -10)
+		(end 49 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2d0201f4-9d0c-476e-b25d-58376214c558")
+	)
+	(fp_line
+		(start 52 0)
+		(end 49 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "30b6e3e0-1211-49a6-afaf-b2acc3a24e97")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 26.15 -4.85 0)
+		(layer "F.Fab")
+		(uuid "2676d548-4c11-432b-9309-1baa7a4d4710")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 -3.62)
+		(size 2.8 2.8)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.089286)
+		(uuid "1b1b0caa-680f-4aa5-a976-3bd764a24ed9")
+	)
+	(pad "2" thru_hole circle
+		(at 52 -3.62)
+		(size 2.8 2.8)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8da9be1d-061c-41ce-be7f-8c5864958052")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Axial_L46.0mm_D20.0mm_P52.00mm_Horizontal.step"
+		(offset
+			(xyz 0 3.5 0)
+		)
+		(scale
+			(xyz 1 0.6 0.6)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

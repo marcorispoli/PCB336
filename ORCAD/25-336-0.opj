@@ -18,7 +18,8 @@
     (FALSE)
     (FALSE)
     (DOCKED "TRUE")
-    (DOCKING_POSITION "59420"))
+    (DOCKING_POSITION "59420")
+    (Display_Online_DRC_Results "FALSE"))
   (Folder "Layout")
   (Folder "Outputs"
     (File ".\25-336-0.mnl"
@@ -28,11 +29,15 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\25-336-0.dsn")
-      (Path "Design Resources" ".\25-336-0.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "c:\users\marco\documents\data\progetti-git\hw\pcb-25-336\orcad\25-336-0.dsn")
+      (Path "Design Resources"
+         "c:\users\marco\documents\data\progetti-git\hw\pcb-25-336\orcad\25-336-0.dsn"
+         "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources" ".\25-336-0.dsn" "SCHEMATIC1"
-         "BOOST_CONVERTER"))
+      (Select "Design Resources"
+         "c:\users\marco\documents\data\progetti-git\hw\pcb-25-336\orcad\25-336-0.dsn"
+         "SCHEMATIC1" "BOOST_CONVERTER"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -42,9 +47,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1388 24 631")
-        (Scroll "-91 0")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1388 24 929")
+        (Scroll "-67 -7")
+        (Zoom "104")
         (Occurrence "/"))
       (Path
          "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-25-336\ORCAD\25-336-0.DSN")
@@ -53,9 +58,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1388 24 631")
-        (Scroll "-91 80")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1388 24 929")
+        (Scroll "-67 -7")
+        (Zoom "104")
         (Occurrence "/"))
       (Path
          "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-25-336\ORCAD\25-336-0.DSN")
@@ -64,9 +69,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1388 24 631")
-        (Scroll "-91 1")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1388 24 929")
+        (Scroll "-67 -7")
+        (Zoom "104")
         (Occurrence "/"))
       (Path
          "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-25-336\ORCAD\25-336-0.DSN")

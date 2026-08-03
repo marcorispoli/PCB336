@@ -1,0 +1,190 @@
+(footprint "SRR4828A120M"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "SRR4828A-120M-2")
+	(tags "Inductor")
+	(property "Reference" "L**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "7b7c68af-2cbc-4f95-a38b-2180af455330")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "SRR4828A120M"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "4b2c3fda-a678-45e5-9c18-ade0dc0c6886")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fa1cd2ff-bac1-45e1-909a-c6df8b40a5f4")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d0a9e2a3-9884-4ad6-8c30-e8cb5bd92eca")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.4 -0.2)
+		(end -2.4 0.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6f372dac-e8ae-41f0-8b71-4a6d2c653657")
+	)
+	(fp_line
+		(start 2.4 -0.2)
+		(end 2.4 0.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a582f702-70b3-4715-a1f6-e1aba98efbb5")
+	)
+	(fp_line
+		(start -2.9 -3.065)
+		(end 2.9 -3.065)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b44bf8e0-810c-4718-8fee-89acda6a68a0")
+	)
+	(fp_line
+		(start -2.9 3.065)
+		(end -2.9 -3.065)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fcf662bf-5799-4065-88c1-ca218cf5e517")
+	)
+	(fp_line
+		(start 2.9 -3.065)
+		(end 2.9 3.065)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0c0545e2-bb23-48be-8acd-f5a69d7d54d0")
+	)
+	(fp_line
+		(start 2.9 3.065)
+		(end -2.9 3.065)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e4e10f0f-513a-4f27-869f-6c214e6271e9")
+	)
+	(fp_line
+		(start -2.4 -2.4)
+		(end 2.4 -2.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "be06f7f8-5aab-4a42-ab91-601037bfd9a7")
+	)
+	(fp_line
+		(start -2.4 2.4)
+		(end -2.4 -2.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b9cc3639-aabf-4ccf-8b78-68494dcae9f4")
+	)
+	(fp_line
+		(start 2.4 -2.4)
+		(end 2.4 2.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7e8d2796-77a3-4aee-a304-fb460ee57307")
+	)
+	(fp_line
+		(start 2.4 2.4)
+		(end -2.4 2.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5d5cc3f9-3eac-45ea-8dd4-cd16a915bdf2")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "476ae786-fdcd-43eb-a97a-41f14c8c36d2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 0 -1.575 90)
+		(size 1.98 4.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7a7f70de-0e37-4768-b7a0-7fb94a339be4")
+	)
+	(pad "2" smd rect
+		(at 0 1.575 90)
+		(size 1.98 4.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "91ab0881-f842-447c-a489-28812d3f1c6f")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/marco/Documents/Data/Progetti-GIT/HW/pcb-25-336/KiCad/METSTEP/SRR4828A-8R2Y.stp"
+		(offset
+			(xyz 0 0 2.759999949)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -90)
+		)
+	)
+)

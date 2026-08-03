@@ -1,0 +1,119 @@
+(footprint "TP_5001"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "5000")
+	(tags "Test Point")
+	(property "Reference" "TP**"
+		(at -0.392 -1.99 0)
+		(layer "F.SilkS")
+		(uuid "9ebaa3a3-6dd2-4f4a-b28a-4b1429504bee")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "TP_5001"
+		(at -0.392 -1.99 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "07eb018c-4bac-4374-9787-4e41d50f5853")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a3fc8f9f-b0e6-4f15-9949-38f2277474ad")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1bae0493-d488-4fbc-8fa9-e1944607cd49")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_circle
+		(center 0 0)
+		(end 0 1.27)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "7bbd2dd8-3c0e-4371-a082-5ceeba300af2")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 1.27)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "18a765b1-32c2-4db9-abc2-cde52a91ddc1")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 1.27)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "27c4d099-db4c-4e07-9b02-435b657f78c9")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.392 -1.99 0)
+		(layer "F.Fab")
+		(uuid "85be8b9a-8a37-4f9a-b430-9af2be6fa5c1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.6 1.6)
+		(drill 1.02)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a917e572-945f-4662-9442-a2e1d9b57c7e")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/marco/Documents/Data/Progetti-GIT/HW/pcb-25-336/KiCad/METSTEP/TP_5001.stp"
+		(offset
+			(xyz 0 0 1.649999951)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

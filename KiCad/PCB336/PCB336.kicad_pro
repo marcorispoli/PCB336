@@ -526,6 +526,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -651,9 +652,14 @@
         "filename": "power.kicad_sch",
         "name": "POWER",
         "uuid": "f1a2d35c-afab-4479-8747-9ab1a9f252d1"
+      },
+      {
+        "filename": "ucontroller.kicad_sch",
+        "name": "uController",
+        "uuid": "1f03e710-e9cb-43de-9c5d-87e256322f8f"
       }
     ],
-    "used_designators": "JP1,FL1-2,TP1-7,F1-2,C1-17,L1,#PWR1-16,IC1-3,U1,J1,D1-3,R1-3",
+    "used_designators": "JP1,FL1-2,TP1-7,F1-2,C1-29,L1-3,#PWR1-24,IC1-3,U1-2,J1-2,D1-3,R1-6",
     "variants": []
   },
   "sheets": [
@@ -664,6 +670,10 @@
     [
       "59e9ac12-16f4-402d-a794-6a170d01c2bd",
       "Principale"
+    ],
+    [
+      "1f03e710-e9cb-43de-9c5d-87e256322f8f",
+      "uController"
     ]
   ],
   "text_variables": {},

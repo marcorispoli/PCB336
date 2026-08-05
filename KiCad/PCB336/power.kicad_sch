@@ -4,6 +4,11 @@
 	(generator_version "10.0")
 	(uuid "8c9bbaac-7c3c-4267-be35-7aa434a9b3ab")
 	(paper "A4")
+	(title_block
+		(title "PCB/25-336-1")
+		(rev "0")
+		(company "METALTRONICA")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_02x02_Top_Bottom"
 			(pin_names
@@ -18869,16 +18874,16 @@
 		(uuid "5a105eb7-a719-410c-b9ef-ce03b75d72a7")
 	)
 	(junction
-		(at 193.04 34.29)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6467957b-6383-47dd-af84-70e4f6618dc6")
-	)
-	(junction
 		(at 115.57 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "65565859-e60a-42c1-bdd8-2d36d19ac8b7")
+	)
+	(junction
+		(at 193.04 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6c06ae1a-8d45-41d5-b975-8d0d511e9eff")
 	)
 	(junction
 		(at 88.9 152.4)
@@ -18903,6 +18908,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8339f92d-73a4-4e7c-8d2a-7e53b12633b3")
+	)
+	(junction
+		(at 193.04 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8d1899d2-58a5-4c5d-8e56-8e0e3bd9c737")
 	)
 	(junction
 		(at 142.24 133.35)
@@ -18933,6 +18944,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a0271561-c894-475a-870b-0a800c1480ed")
+	)
+	(junction
+		(at 191.77 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b46b73db-3414-47fd-989d-95e0fdd87f57")
 	)
 	(junction
 		(at 88.9 133.35)
@@ -18977,12 +18994,6 @@
 		(uuid "c2212d56-0d13-4595-bea2-912f7cbbe23c")
 	)
 	(junction
-		(at 193.04 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c3cf53d4-3312-473c-b383-a751c68f1b74")
-	)
-	(junction
 		(at 166.37 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -19011,12 +19022,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "de479bed-01d0-4f3f-9448-4eb96bf6c459")
-	)
-	(junction
-		(at 191.77 133.35)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e3503a4f-8c1d-4b80-ab9f-b9eda92c1dcb")
 	)
 	(junction
 		(at 93.98 48.26)
@@ -20405,6 +20410,7 @@
 		)
 		(property "Value" "GREEN"
 			(at 250.19 49.2126 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20450,6 +20456,16 @@
 		(property "Sim.Pins" "1=K 2=A"
 			(at 246.38 52.07 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Color" "GREEN"
+			(at 253.492 53.848 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21124,158 +21140,6 @@
 		)
 	)
 	(symbol
-		(lib_id "MET:TP_Serie_5001")
-		(at 193.04 86.36 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "2fa8225b-13aa-4161-a75e-e24b1a64a634")
-		(property "Reference" "TP5"
-			(at 191.516 97.536 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "RED"
-			(at 191.516 95.25 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "MET:TP_5001"
-			(at 287.96 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "http://www.keyelco.com/product-pdf.cfm?p=1310"
-			(at 387.96 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "KEYSTONE - 5000 - TEST POINT, CONNECTOR, RED"
-			(at 193.04 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" ""
-			(at 587.96 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" "534-5000"
-			(at 687.96 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/5001?qs=q0tsjPZWdm%2FW0vdr%2FwowKg%3D%3D"
-			(at 787.96 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "Keystone Electronics"
-			(at 887.96 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "5000"
-			(at 987.96 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "PN" "5000"
-			(at 193.04 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "17d8e64b-ed12-4838-9633-53c0faad6edc")
-		)
-		(instances
-			(project "PCB336"
-				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
-					(reference "TP5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED")
 		(at 231.14 50.8 90)
 		(unit 1)
@@ -21285,7 +21149,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "301fba32-02a8-44cb-8790-44656b254e01")
 		(property "Reference" "D1"
 			(at 234.95 51.1174 90)
@@ -21300,6 +21163,7 @@
 		)
 		(property "Value" "GREEN"
 			(at 234.95 53.6574 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21345,6 +21209,16 @@
 		(property "Sim.Pins" "1=K 2=A"
 			(at 231.14 50.8 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Color" "GREEN"
+			(at 237.998 53.34 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21378,7 +21252,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "35c02cc5-9df9-430e-a9ab-7987b654c2e9")
 		(property "Reference" "D3"
 			(at 266.7 52.3874 90)
@@ -21393,6 +21266,7 @@
 		)
 		(property "Value" "GREEN"
 			(at 266.7 54.9274 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21438,6 +21312,16 @@
 		(property "Sim.Pins" "1=K 2=A"
 			(at 262.89 52.07 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Color" "GREEN"
+			(at 270.002 54.356 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21517,7 +21401,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistore 1/4W, 0805"
 			(at 231.14 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -22141,7 +22025,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistore 1/4W, 0805"
 			(at 246.38 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -22660,7 +22544,7 @@
 		(dnp no)
 		(uuid "5319c038-c902-4b39-b9c1-9ac665873ef6")
 		(property "Reference" "TP1"
-			(at 139.446 21.844 90)
+			(at 139.7 21.59 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22670,8 +22554,9 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "5000"
 			(at 139.446 24.13 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22705,7 +22590,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "KEYSTONE - 5000 - TEST POINT, CONNECTOR, RED"
+		(property "Description" "KEYSTONE - Serie 5000 - Red"
 			(at 140.97 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -22787,6 +22672,16 @@
 				)
 			)
 		)
+		(property "Color" "RED"
+			(at 141.224 23.876 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8fc0176a-a418-4b86-927f-69ad01bb68b2")
 		)
@@ -22794,158 +22689,6 @@
 			(project "PCB336"
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "TP1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MET:TP_Serie_5001")
-		(at 140.97 87.63 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "573042f5-12af-4ab8-87f2-f70f86e0c1de")
-		(property "Reference" "TP2"
-			(at 139.446 98.806 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "RED"
-			(at 139.446 96.52 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "MET:TP_5001"
-			(at 235.89 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "http://www.keyelco.com/product-pdf.cfm?p=1310"
-			(at 335.89 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "KEYSTONE - 5000 - TEST POINT, CONNECTOR, RED"
-			(at 140.97 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" ""
-			(at 535.89 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" "534-5000"
-			(at 635.89 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/5001?qs=q0tsjPZWdm%2FW0vdr%2FwowKg%3D%3D"
-			(at 735.89 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "Keystone Electronics"
-			(at 835.89 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "5000"
-			(at 935.89 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "PN" "5000"
-			(at 140.97 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "97713343-c42a-4145-8f5c-32f3582cbe1d")
-		)
-		(instances
-			(project "PCB336"
-				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
-					(reference "TP2")
 					(unit 1)
 				)
 			)
@@ -23069,9 +22812,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "5fbf0ada-4d23-40dd-a583-9b6df83da248")
+		(uuid "6951fcb7-a0f8-4b55-b294-4e48120bd417")
 		(property "Reference" "TP4"
-			(at 191.516 23.114 90)
+			(at 191.77 22.86 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23081,8 +22824,9 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "5000"
 			(at 191.516 25.4 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23116,7 +22860,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "KEYSTONE - 5000 - TEST POINT, CONNECTOR, RED"
+		(property "Description" "KEYSTONE - Serie 5000 - Red"
 			(at 193.04 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -23198,8 +22942,18 @@
 				)
 			)
 		)
+		(property "Color" "RED"
+			(at 193.294 25.146 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
-			(uuid "9264a89b-a39b-4ace-811d-fc37207f608b")
+			(uuid "235476ce-03c4-40af-9bdb-34b962d25f83")
 		)
 		(instances
 			(project "PCB336"
@@ -23212,7 +22966,7 @@
 	)
 	(symbol
 		(lib_id "MET:TP_Serie_5001")
-		(at 191.77 133.35 90)
+		(at 142.24 133.35 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23220,9 +22974,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "64663f68-458d-43af-8379-a31c8b8e7e93")
-		(property "Reference" "TP7"
-			(at 190.246 122.174 90)
+		(uuid "6c464269-2855-4707-b110-e0a76d3d1916")
+		(property "Reference" "TP6"
+			(at 140.97 121.92 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23232,8 +22986,9 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
-			(at 190.246 124.46 90)
+		(property "Value" "5000"
+			(at 140.716 124.46 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23244,7 +22999,7 @@
 			)
 		)
 		(property "Footprint" "MET:TP_5001"
-			(at 286.69 116.84 0)
+			(at 237.16 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23256,7 +23011,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.keyelco.com/product-pdf.cfm?p=1310"
-			(at 386.69 116.84 0)
+			(at 337.16 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23267,8 +23022,8 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "KEYSTONE - 5000 - TEST POINT, CONNECTOR, RED"
-			(at 191.77 133.35 0)
+		(property "Description" "KEYSTONE - Serie 5000 - Red"
+			(at 142.24 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23279,7 +23034,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 586.69 116.84 0)
+			(at 537.16 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23291,7 +23046,7 @@
 			)
 		)
 		(property "Mouser Part Number" "534-5000"
-			(at 686.69 116.84 0)
+			(at 637.16 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23303,7 +23058,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/5001?qs=q0tsjPZWdm%2FW0vdr%2FwowKg%3D%3D"
-			(at 786.69 116.84 0)
+			(at 737.16 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23315,7 +23070,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Keystone Electronics"
-			(at 886.69 116.84 0)
+			(at 837.16 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23327,7 +23082,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "5000"
-			(at 986.69 116.84 0)
+			(at 937.16 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23339,7 +23094,7 @@
 			)
 		)
 		(property "PN" "5000"
-			(at 191.77 133.35 0)
+			(at 142.24 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23349,13 +23104,23 @@
 				)
 			)
 		)
+		(property "Color" "RED"
+			(at 142.494 124.206 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
-			(uuid "f0de5878-c95a-4fef-98f6-8dd6b92b5a1a")
+			(uuid "4be928e0-29b4-4c47-a47a-6d4cfef6969b")
 		)
 		(instances
 			(project "PCB336"
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
-					(reference "TP7")
+					(reference "TP6")
 					(unit 1)
 				)
 			)
@@ -23860,7 +23625,7 @@
 		(dnp no)
 		(uuid "783719d3-e7de-4e5c-9b40-6791df2797ab")
 		(property "Reference" "TP3"
-			(at 164.846 48.514 90)
+			(at 164.592 48.514 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23870,8 +23635,9 @@
 				(justify right)
 			)
 		)
-		(property "Value" "BLACK"
+		(property "Value" "5001"
 			(at 163.322 50.8 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23905,7 +23671,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "KEYSTONE - 5001 - TEST POINT, CONNECTOR, BLACK"
+		(property "Description" "KEYSTONE - Serie 5000 - Black"
 			(at 166.37 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -23979,6 +23745,16 @@
 		(property "PN" "5001"
 			(at 166.37 59.69 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Color" "BLACK"
+			(at 167.64 50.546 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24078,6 +23854,169 @@
 		)
 	)
 	(symbol
+		(lib_id "MET:TP_Serie_5001")
+		(at 140.97 87.63 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "840f6b5c-e282-4084-99ba-e00782c92236")
+		(property "Reference" "TP9"
+			(at 139.7 99.06 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "5000"
+			(at 139.446 96.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "MET:TP_5001"
+			(at 235.89 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "http://www.keyelco.com/product-pdf.cfm?p=1310"
+			(at 335.89 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "KEYSTONE - Serie 5000 - Red"
+			(at 140.97 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 535.89 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" "534-5000"
+			(at 635.89 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/5001?qs=q0tsjPZWdm%2FW0vdr%2FwowKg%3D%3D"
+			(at 735.89 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "Keystone Electronics"
+			(at 835.89 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "5000"
+			(at 935.89 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "PN" "5000"
+			(at 140.97 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Color" "RED"
+			(at 141.224 96.774 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "097688dd-6752-4262-bc19-e7a3e2a9dcab")
+		)
+		(instances
+			(project "PCB336"
+				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
+					(reference "TP9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 57.15 142.24 0)
 		(unit 1)
@@ -24154,157 +24093,6 @@
 			(project "PCB336"
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "C12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MET:TP_Serie_5001")
-		(at 142.24 133.35 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9e265ab6-110c-480f-a8f0-53691e6a3ae4")
-		(property "Reference" "TP6"
-			(at 140.716 122.174 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "RED"
-			(at 140.716 124.46 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "MET:TP_5001"
-			(at 237.16 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "http://www.keyelco.com/product-pdf.cfm?p=1310"
-			(at 337.16 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "KEYSTONE - 5000 - TEST POINT, CONNECTOR, RED"
-			(at 142.24 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" ""
-			(at 537.16 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" "534-5000"
-			(at 637.16 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/5001?qs=q0tsjPZWdm%2FW0vdr%2FwowKg%3D%3D"
-			(at 737.16 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "Keystone Electronics"
-			(at 837.16 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "5000"
-			(at 937.16 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "PN" "5000"
-			(at 142.24 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "59fe1dd6-2a26-43b9-b537-8d3e568a9a17")
-		)
-		(instances
-			(project "PCB336"
-				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
-					(reference "TP6")
 					(unit 1)
 				)
 			)
@@ -26075,6 +25863,169 @@
 		)
 	)
 	(symbol
+		(lib_id "MET:TP_Serie_5001")
+		(at 193.04 86.36 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d8ffe1e0-5928-4311-92c5-7b9b6bc79332")
+		(property "Reference" "TP5"
+			(at 191.77 97.79 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "5000"
+			(at 191.516 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "MET:TP_5001"
+			(at 287.96 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "http://www.keyelco.com/product-pdf.cfm?p=1310"
+			(at 387.96 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "KEYSTONE - Serie 5000 - Red"
+			(at 193.04 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 587.96 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" "534-5000"
+			(at 687.96 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/5001?qs=q0tsjPZWdm%2FW0vdr%2FwowKg%3D%3D"
+			(at 787.96 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "Keystone Electronics"
+			(at 887.96 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "5000"
+			(at 987.96 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "PN" "5000"
+			(at 193.04 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Color" "RED"
+			(at 193.294 95.504 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ed7a4516-c099-484d-a871-0ad819d15fa7")
+		)
+		(instances
+			(project "PCB336"
+				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
+					(reference "TP5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "MET:Littlefuse_serie154.DRT")
 		(at 35.56 40.64 0)
 		(unit 1)
@@ -26217,6 +26168,168 @@
 		)
 	)
 	(symbol
+		(lib_id "MET:TP_Serie_5001")
+		(at 191.77 133.35 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "df9e50ed-fe80-4128-81ed-c58c05f34d0f")
+		(property "Reference" "TP7"
+			(at 190.5 121.92 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "5000"
+			(at 190.246 124.46 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "MET:TP_5001"
+			(at 286.69 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "http://www.keyelco.com/product-pdf.cfm?p=1310"
+			(at 386.69 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "KEYSTONE - Serie 5000 - Red"
+			(at 191.77 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 586.69 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" "534-5000"
+			(at 686.69 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/5001?qs=q0tsjPZWdm%2FW0vdr%2FwowKg%3D%3D"
+			(at 786.69 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "Keystone Electronics"
+			(at 886.69 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "5000"
+			(at 986.69 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "PN" "5000"
+			(at 191.77 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Color" "RED"
+			(at 192.024 124.206 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d2a802e5-5c90-4a9d-87f1-f31e2b191874")
+		)
+		(instances
+			(project "PCB336"
+				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
+					(reference "TP7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 262.89 64.77 0)
 		(unit 1)
@@ -26272,7 +26385,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistore 1/4W, 0805"
 			(at 262.89 64.77 0)
 			(hide yes)
 			(show_name no)

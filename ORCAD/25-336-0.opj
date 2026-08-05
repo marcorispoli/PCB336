@@ -101,7 +101,7 @@
       (Path "Design Resources" ".\25-336-0.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\25-336-0.dsn" "SCHEMATIC1" "uC"))
+      (Select "Design Resources" ".\25-336-0.dsn" "SCHEMATIC1" "POWER"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -111,25 +111,27 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 5 24 5 1323 24 929")
-        (Scroll "-17 0")
-        (Zoom "107")
+        (Placement "44 2 3 -1 -1 5 24 5 860 24 749")
+        (Scroll "50 48")
+        (Zoom "200")
         (Occurrence "/"))
-      (Path "D:\GIT\HW\PCB336\ORCAD\25-336-0.DSN")
+      (Path
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-25-336\ORCAD\25-336-0.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "uC"))
+      (Page "CONTROLLO-CORRENTE"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 0 0 5 1323 24 929")
-        (Scroll "-17 0")
-        (Zoom "107")
+        (Placement "44 0 1 -1 -1 0 0 5 860 24 749")
+        (Scroll "-2 -57")
+        (Zoom "70")
         (Occurrence "/"))
-      (Path "D:\GIT\HW\PCB336\ORCAD\25-336-0.DSN")
+      (Path
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-25-336\ORCAD\25-336-0.DSN")
       (Schematic "SCHEMATIC1")
       (Page "POWER")))
   (ISPCBBASICLICENSE "false")
-  (MPSSessionName "user")
+  (MPSSessionName "marco")
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
     (Folder "Model Libraries"

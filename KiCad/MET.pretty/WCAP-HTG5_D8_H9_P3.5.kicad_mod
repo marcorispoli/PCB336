@@ -8,7 +8,7 @@
 	(property "Reference" "C**"
 		(at -2 -4 0)
 		(layer "F.SilkS")
-		(uuid "da8e4240-6bea-4926-a5c2-02352482c53f")
+		(uuid "109f1407-e68d-47bd-8378-ffa2e2e6c91b")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20,7 +20,7 @@
 		(at 0 0 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "1bdc0ce3-c47b-4234-82f9-9196216cf479")
+		(uuid "94a14ed0-3a70-4775-8f07-9f33b1e1a4cc")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -32,7 +32,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "30da6d23-f56d-4415-b877-2a2938c059ce")
+		(uuid "da876d3f-9e5a-46b3-9934-db3382fbd241")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "9f405a71-6f1f-482f-afce-49f67c51cf42")
+		(uuid "3ad30c23-1f28-40a1-b386-96d14c8e9a3b")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -60,7 +60,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "da4280f2-e62c-43bb-96af-2d79e9542e2d")
+		(uuid "f4971091-61ec-44a5-8ec2-a3735119ada0")
 	)
 	(fp_circle
 		(center 1.75 0)
@@ -71,7 +71,7 @@
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "b06a0f9b-2bcc-4edf-b3ee-e62a6ac0ab05")
+		(uuid "20cb5cf2-35d2-43a4-b3a1-82386c286340")
 	)
 	(fp_circle
 		(center 1.75 0)
@@ -82,13 +82,13 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "3d31a8ce-cac3-4648-8cdb-411680488a10")
+		(uuid "fe2a4243-704c-40cb-a7bc-21d7bd9b7557")
 	)
 	(fp_text user "+"
 		(at -2 0.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "4c951dd6-7d68-489b-89aa-39ccd0162249")
+		(uuid "36ac4413-00b0-48c5-b4df-fc2daff644ce")
 		(effects
 			(font
 				(size 1 1)
@@ -101,7 +101,7 @@
 		(at 4.5 0.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "173fe822-e9b5-4ab5-8759-dd319b35c3c4")
+		(uuid "aefcbe42-628d-4a6b-8fd9-b62800ea4019")
 		(effects
 			(font
 				(size 1 1)
@@ -113,7 +113,7 @@
 	(fp_text user "${REFERENCE}"
 		(at 0 -6 0)
 		(layer "F.Fab")
-		(uuid "2b9049cf-dd58-4d4d-891d-03c6060758f8")
+		(uuid "d93b073d-854f-45a9-8102-5ffaae1431ae")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -127,7 +127,7 @@
 		(drill 0.85)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "78458598-a568-47a9-9f88-1133df016ba9")
+		(uuid "775bfbb9-6695-42d2-b6b6-efce7ad0bac3")
 	)
 	(pad "2" thru_hole circle
 		(at 3.5 0)
@@ -135,10 +135,10 @@
 		(drill 0.85)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "ba7a010b-90a8-47fd-b952-34e2214cc921")
+		(uuid "75d2ec35-25c5-4477-91ab-37ecf722d8c8")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/marco/Documents/Data/Progetti-GIT/HW/pcb-25-336/KiCad/METSTEP/WCAP-HTG5_D8_H9_P3.5.stp"
+	(model "modelli_3d/WCAP-HTG5_D8_H9_P3.5.stp"
 		(offset
 			(xyz 0 0 0)
 		)

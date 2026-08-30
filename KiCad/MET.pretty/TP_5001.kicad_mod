@@ -8,7 +8,7 @@
 	(property "Reference" "TP**"
 		(at -0.392 -1.99 0)
 		(layer "F.SilkS")
-		(uuid "9ebaa3a3-6dd2-4f4a-b28a-4b1429504bee")
+		(uuid "1e12d44a-b7bf-44c7-9116-8b5f449f0f8e")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20,7 +20,7 @@
 		(at -0.392 -1.99 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "07eb018c-4bac-4374-9787-4e41d50f5853")
+		(uuid "d9bc941c-073e-4c8c-92f1-4e594fe5f208")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -32,7 +32,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "a3fc8f9f-b0e6-4f15-9949-38f2277474ad")
+		(uuid "1f426d7e-290c-45d1-bbf3-053fd7c3a46d")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "1bae0493-d488-4fbc-8fa9-e1944607cd49")
+		(uuid "b0c2d931-1668-463c-9781-95e05bceb347")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -61,7 +61,7 @@
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "7bbd2dd8-3c0e-4371-a082-5ceeba300af2")
+		(uuid "c0a64acd-7c40-4b76-b9b6-881ecae96681")
 	)
 	(fp_circle
 		(center 0 0)
@@ -72,7 +72,7 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "18a765b1-32c2-4db9-abc2-cde52a91ddc1")
+		(uuid "d0acee9f-c93b-4534-837f-f0da431b816f")
 	)
 	(fp_circle
 		(center 0 0)
@@ -83,12 +83,12 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "27c4d099-db4c-4e07-9b02-435b657f78c9")
+		(uuid "d7ad1871-e567-4d88-8080-46d71a70e3c8")
 	)
 	(fp_text user "${REFERENCE}"
 		(at -0.392 -1.99 0)
 		(layer "F.Fab")
-		(uuid "85be8b9a-8a37-4f9a-b430-9af2be6fa5c1")
+		(uuid "45588cc5-a005-4d60-a1ea-c2996cbe0d08")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -102,10 +102,10 @@
 		(drill 1.02)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "a917e572-945f-4662-9442-a2e1d9b57c7e")
+		(uuid "5440f139-e880-4bb3-bc09-4d64772fd26a")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/marco/Documents/Data/Progetti-GIT/HW/pcb-25-336/KiCad/METSTEP/TP_5001.stp"
+	(model "modelli_3d/TP_5001.stp"
 		(offset
 			(xyz 0 0 1.649999951)
 		)

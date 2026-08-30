@@ -8,7 +8,7 @@
 	(property "Reference" "L**"
 		(at 0 0 0)
 		(layer "F.SilkS")
-		(uuid "7b7c68af-2cbc-4f95-a38b-2180af455330")
+		(uuid "98c69591-2aaf-4735-bc62-4812ed9457fa")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20,7 +20,7 @@
 		(at 0 0 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "4b2c3fda-a678-45e5-9c18-ade0dc0c6886")
+		(uuid "eca884d8-3ed6-4c1a-a4f4-529f9a72935d")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -32,7 +32,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "fa1cd2ff-bac1-45e1-909a-c6df8b40a5f4")
+		(uuid "612a49fa-4306-4177-b589-46bdd679b2e6")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "d0a9e2a3-9884-4ad6-8c30-e8cb5bd92eca")
+		(uuid "28cd1100-0a85-4dcd-8735-f6cd9a05238d")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -60,7 +60,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "6f372dac-e8ae-41f0-8b71-4a6d2c653657")
+		(uuid "8e8b5fa9-f55d-43b3-8459-f211031898aa")
 	)
 	(fp_line
 		(start 2.4 -0.2)
@@ -70,7 +70,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "a582f702-70b3-4715-a1f6-e1aba98efbb5")
+		(uuid "75e5b3de-f8f8-4cd6-8bbd-bb3498523036")
 	)
 	(fp_line
 		(start -2.9 -3.065)
@@ -80,7 +80,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "b44bf8e0-810c-4718-8fee-89acda6a68a0")
+		(uuid "b0862a12-a11b-4e89-ae26-52345da3638d")
 	)
 	(fp_line
 		(start -2.9 3.065)
@@ -90,7 +90,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "fcf662bf-5799-4065-88c1-ca218cf5e517")
+		(uuid "c0083ee2-c02b-4568-bf6f-9a1fa492a37b")
 	)
 	(fp_line
 		(start 2.9 -3.065)
@@ -100,7 +100,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "0c0545e2-bb23-48be-8acd-f5a69d7d54d0")
+		(uuid "0e42d534-cf4f-4b97-996d-932ab831a923")
 	)
 	(fp_line
 		(start 2.9 3.065)
@@ -110,7 +110,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "e4e10f0f-513a-4f27-869f-6c214e6271e9")
+		(uuid "5c97c081-6a68-41a1-b2c5-d08cc613ff62")
 	)
 	(fp_line
 		(start -2.4 -2.4)
@@ -120,7 +120,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "be06f7f8-5aab-4a42-ab91-601037bfd9a7")
+		(uuid "09ebee00-ee63-4fa0-a748-0df43c2b9935")
 	)
 	(fp_line
 		(start -2.4 2.4)
@@ -130,7 +130,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "b9cc3639-aabf-4ccf-8b78-68494dcae9f4")
+		(uuid "d5afaef2-833e-4eb3-a81b-25a2f1e9c05f")
 	)
 	(fp_line
 		(start 2.4 -2.4)
@@ -140,7 +140,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "7e8d2796-77a3-4aee-a304-fb460ee57307")
+		(uuid "d8b9fe42-1bcc-41a4-8a0c-3da989111575")
 	)
 	(fp_line
 		(start 2.4 2.4)
@@ -150,12 +150,12 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "5d5cc3f9-3eac-45ea-8dd4-cd16a915bdf2")
+		(uuid "fcff9770-4bed-43d5-9830-e94eea1206f0")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
-		(uuid "476ae786-fdcd-43eb-a97a-41f14c8c36d2")
+		(uuid "ee375647-5a64-4709-a6bc-973bd7459701")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -167,16 +167,16 @@
 		(at 0 -1.575 90)
 		(size 1.98 4.2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "7a7f70de-0e37-4768-b7a0-7fb94a339be4")
+		(uuid "f4ee7be3-0d4e-4043-82bf-55b580669cc3")
 	)
 	(pad "2" smd rect
 		(at 0 1.575 90)
 		(size 1.98 4.2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "91ab0881-f842-447c-a489-28812d3f1c6f")
+		(uuid "f16f29c9-c750-4c92-8e03-ec666e404649")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/marco/Documents/Data/Progetti-GIT/HW/pcb-25-336/KiCad/METSTEP/SRR4828A-8R2Y.stp"
+	(model "modelli_3d/SRR4828A-8R2Y.stp"
 		(offset
 			(xyz 0 0 2.759999949)
 		)

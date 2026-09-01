@@ -6,6 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "PCB/25-336-1")
+		(date "2026-09-01")
 		(rev "0")
 		(company "METALTRONICA")
 	)
@@ -22322,7 +22323,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm"
 			(at 153.67 59.69 0)
 			(hide yes)
 			(show_name no)

@@ -6,6 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "PCB/25-336-1")
+		(date "2026-09-01")
 		(rev "0")
 		(company "METALTRONICA")
 	)
@@ -2930,12 +2931,6 @@
 		(uuid "146ceef6-2b17-47aa-867f-bc56a798a12c")
 	)
 	(junction
-		(at 101.6 77.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1b683f91-88c0-4f4f-a1d1-4dce8201fc16")
-	)
-	(junction
 		(at 114.3 20.32)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3066,6 +3061,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b9c5a150-bc60-42c3-826b-57815c2108dd")
+	)
+	(junction
+		(at 101.6 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bd7967a7-a398-4806-96cb-b3c5b794b5a9")
 	)
 	(junction
 		(at 106.68 40.64)
@@ -3723,16 +3724,6 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 76.2) (xy 101.6 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5f85bf73-c7b5-42ac-b9c3-a23cd5ef04fa")
-	)
-	(wire
-		(pts
 			(xy 248.92 93.98) (xy 248.92 95.25)
 		)
 		(stroke
@@ -3893,16 +3884,6 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 78.74) (xy 160.02 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7aaa185e-2b9c-4f1c-8514-919a0466373a")
-	)
-	(wire
-		(pts
 			(xy 151.13 96.52) (xy 161.29 96.52)
 		)
 		(stroke
@@ -3950,16 +3931,6 @@
 			(type default)
 		)
 		(uuid "8769fb79-99b2-4cfd-9922-8f95a10638bb")
-	)
-	(wire
-		(pts
-			(xy 95.25 77.47) (xy 101.6 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8a6d28a3-2014-4738-8dce-46b89a62b18c")
 	)
 	(wire
 		(pts
@@ -4223,7 +4194,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 77.47) (xy 101.6 78.74)
+			(xy 101.6 76.2) (xy 101.6 78.74)
 		)
 		(stroke
 			(width 0)
@@ -4503,6 +4474,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 76.2) (xy 101.6 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec659b8e-1afa-4e8d-821f-cc71461b7285")
+	)
+	(wire
+		(pts
 			(xy 259.08 87.63) (xy 259.08 88.9)
 		)
 		(stroke
@@ -4681,16 +4662,6 @@
 		)
 		(uuid "44b0d7ca-d3db-4ea6-a0c2-1b15c30cd9be")
 	)
-	(label "uC_FILFREQ"
-		(at 95.25 77.47 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "47d56fb0-18d1-4a62-9ff7-d9486bdf174d")
-	)
 	(label "Vuc"
 		(at 102.87 158.75 0)
 		(effects
@@ -4781,6 +4752,16 @@
 		)
 		(uuid "77b0a25d-6e60-4fe1-b3a0-792759764c90")
 	)
+	(label "uC_IFREQ_ANL"
+		(at 93.98 76.2 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "7d6965b4-fe88-4ef7-b152-73f045f00eaf")
+	)
 	(label "SVO"
 		(at 63.5 175.26 0)
 		(effects
@@ -4811,7 +4792,7 @@
 		)
 		(uuid "8b209e92-de84-4b28-89de-2095143af072")
 	)
-	(label "uC_VFILx5_ANL"
+	(label "uC_VFIL_ANL"
 		(at 160.02 76.2 0)
 		(effects
 			(font
@@ -4830,16 +4811,6 @@
 			(justify left bottom)
 		)
 		(uuid "9adc9e5b-176f-4130-8126-2b7ec516655f")
-	)
-	(label "uC_VFILx15_ANL"
-		(at 160.02 78.74 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a5e497e4-4e91-4572-b5ab-7c4ec1d77bfa")
 	)
 	(label "Vuc"
 		(at 77.47 132.08 0)

@@ -240,7 +240,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "0"
+      "sch_revision": ""
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -260,7 +260,84 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "lib_symbol_mismatch|1155700|368300|d3dafb9c-e7b2-4ad7-9fe0-88899d404896|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ],
+      [
+        "lib_symbol_mismatch|1155700|711200|1bf59583-0d70-457d-afc3-0d1005ca4be2|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ],
+      [
+        "lib_symbol_mismatch|1181100|533400|4cb9bd9f-2558-4f79-8d73-3a224b647b12|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ],
+      [
+        "lib_symbol_mismatch|1282700|368300|73da63ad-40e8-4560-8fb0-55b312014dd6|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ],
+      [
+        "lib_symbol_mismatch|1282700|711200|4a981029-b722-45e1-ad59-bf64c31180aa|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ],
+      [
+        "lib_symbol_mismatch|1282700|990600|343d9c52-8ca7-4644-b209-d70bf4b6fec6|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ],
+      [
+        "lib_symbol_mismatch|1409700|368300|3cec0985-da1a-40f2-9e86-058d9f2c3864|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ],
+      [
+        "lib_symbol_mismatch|1409700|711200|ac9a4e4f-94e6-47bc-a93b-ce5770ecc387|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ],
+      [
+        "lib_symbol_mismatch|1828800|508000|5d1b7e44-dca9-49f2-a966-7b3ee85b887e|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ],
+      [
+        "lib_symbol_mismatch|2438400|469900|ea421be6-20b4-421e-a759-2a9dd117046e|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ],
+      [
+        "lib_symbol_mismatch|546100|1320800|e07d73dc-615e-42c4-9f0e-88771a27cb9f|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ],
+      [
+        "lib_symbol_mismatch|546100|1892300|17690594-de2c-4e4b-9f51-3404c12c163c|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ],
+      [
+        "lib_symbol_mismatch|660400|457200|e8f8e5ad-5966-4603-8777-4517345b2311|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ],
+      [
+        "lib_symbol_mismatch|876300|1562100|69a2891d-b888-454d-8c72-3e7d1d5bfd90|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ],
+      [
+        "lib_symbol_mismatch|939800|1562100|ac21ab29-fb8d-4f40-b6be-d70330f18448|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ],
+      [
+        "pin_not_connected|520700|1752600|ee02925d-69b7-4c52-abef-dd543e8afca5|00000000-0000-0000-0000-000000000000|/286f6ee5-7803-478e-8d05-80061c6cae5b|/286f6ee5-7803-478e-8d05-80061c6cae5b|",
+        ""
+      ],
+      [
+        "pin_not_connected|571500|1752600|e4dbf5fb-1010-408a-81a8-bae786ce6f3e|00000000-0000-0000-0000-000000000000|/286f6ee5-7803-478e-8d05-80061c6cae5b|/286f6ee5-7803-478e-8d05-80061c6cae5b|",
+        ""
+      ],
+      [
+        "pin_not_connected|596900|1752600|ad0b5adf-09ab-46a2-9190-84af04d17a27|00000000-0000-0000-0000-000000000000|/286f6ee5-7803-478e-8d05-80061c6cae5b|/286f6ee5-7803-478e-8d05-80061c6cae5b|",
+        ""
+      ],
+      [
+        "pin_not_connected|622300|1752600|52859d37-21b9-49ff-9c63-658848098f7b|00000000-0000-0000-0000-000000000000|/286f6ee5-7803-478e-8d05-80061c6cae5b|/286f6ee5-7803-478e-8d05-80061c6cae5b|",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -468,14 +545,14 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
-      "power_pin_not_driven": "error",
+      "pin_to_pin": "error",
+      "power_pin_not_driven": "ignore",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
       "similar_power": "warning",
       "simulation_model_issue": "ignore",
-      "single_global_label": "ignore",
+      "single_global_label": "warning",
       "stacked_pin_name": "warning",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
@@ -757,9 +834,24 @@
         "filename": "monitor.kicad_sch",
         "name": "Monitor",
         "uuid": "dadc61e6-5b36-4438-97bc-9c6f7cdda75a"
+      },
+      {
+        "filename": "load.kicad_sch",
+        "name": "Load",
+        "uuid": "6640e7ba-894d-44e2-8d1f-5f54c3405dee"
+      },
+      {
+        "filename": "externalsynch.kicad_sch",
+        "name": "ExternalSynch",
+        "uuid": "dda37f4d-3b75-4ccc-affc-935945f81142"
+      },
+      {
+        "filename": "can_bus.kicad_sch",
+        "name": "CAN BUS",
+        "uuid": "c130dc83-9a33-4b17-8573-1389a3b65851"
       }
     ],
-    "used_designators": "JP1,FL1-2,TP1-15,RV1-2,F1-2,C1-53,#PWR1-97,T1,L1-3,IC1-8,U1-4,J1-3,D1-24,R1-60,Q1-7",
+    "used_designators": "JP1,FL1-2,TP1-17,RV1-2,F1-2,C1-68,#PWR1-152,T1,L1-3,IC1-15,U1-4,J1-8,D1-31,#FLG1-14,R1-76,Q1-11,K1-4",
     "variants": []
   },
   "sheets": [
@@ -782,6 +874,18 @@
     [
       "dadc61e6-5b36-4438-97bc-9c6f7cdda75a",
       "Monitor"
+    ],
+    [
+      "6640e7ba-894d-44e2-8d1f-5f54c3405dee",
+      "Load"
+    ],
+    [
+      "dda37f4d-3b75-4ccc-affc-935945f81142",
+      "ExternalSynch"
+    ],
+    [
+      "c130dc83-9a33-4b17-8573-1389a3b65851",
+      "CAN BUS"
     ]
   ],
   "text_variables": {},

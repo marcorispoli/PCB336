@@ -2313,7 +2313,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MET:ESDM2032MX4T5G"
+		(symbol "MET:MMBZ6V2AL,215"
 			(pin_names
 				(hide yes)
 			)
@@ -2323,41 +2323,29 @@
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "D"
-				(at 12.7 8.89 0)
+				(at 12.446 8.382 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify left top)
 				)
 			)
-			(property "Value" "ESDM2032MX4T5G"
-				(at 12.7 6.35 0)
+			(property "Value" "MMBZ6V2AL,215"
+				(at 12.446 6.35 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify left top)
 				)
 			)
-			(property "Footprint" "MET:ESDM2032MX4T5G"
-				(at 12.7 -93.65 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Datasheet" "https://www.onsemi.com/pub/Collateral/ESDM2032-D.PDF"
-				(at 12.7 -193.65 0)
+			(property "Footprint" "MET:MMBZ6V2AL,215"
+				(at 52.07 -94.92 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -2365,10 +2353,22 @@
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify left top)
 				)
 			)
-			(property "Description" "These Devices are PbFree, Halogen Free/BFR Free and are RoHS; Stand-off Voltage: 3.3 V; Small Body Outline Dimensions: 0.60 mm x 0.30 mm, 0.20 mm thickness; >15 A Peak Pulse Current Capable, 8x20 us Surge; Ultra-Low RDYN; FC > 350 MHz"
+			(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/MMBZXAL_SER.pdf"
+				(at 52.07 -194.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Description" "MMBZ6V2AL - Low capacitance unidirectional double ESD protection diode"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2379,8 +2379,8 @@
 					)
 				)
 			)
-			(property "Height" "0.225"
-				(at 12.7 -393.65 0)
+			(property "Height" "1.1"
+				(at 52.07 -394.92 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -2388,11 +2388,11 @@
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify left top)
 				)
 			)
-			(property "Mouser Part Number" "863-ESDM2032MX4T5G"
-				(at 12.7 -493.65 0)
+			(property "Mouser Part Number" "771-MMBZ6V2AL215"
+				(at 52.07 -494.92 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -2400,11 +2400,11 @@
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify left top)
 				)
 			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi/ESDM2032MX4T5G?qs=BJlw7L4Cy78U%2FD4oTtRXYw%3D%3D"
-				(at 12.7 -593.65 0)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Nexperia/MMBZ6V2AL215?qs=MWRe%252BjyhxRugJZOclcIbDg%3D%3D"
+				(at 52.07 -594.92 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -2412,11 +2412,11 @@
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify left top)
 				)
 			)
-			(property "Manufacturer_Name" "onsemi"
-				(at 12.7 -693.65 0)
+			(property "Manufacturer_Name" "Nexperia"
+				(at 52.07 -694.92 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -2424,11 +2424,11 @@
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify left top)
 				)
 			)
-			(property "Manufacturer_Part_Number" "ESDM2032MX4T5G"
-				(at 12.7 -793.65 0)
+			(property "Manufacturer_Part_Number" "MMBZ6V2AL,215"
+				(at 52.07 -794.92 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -2436,16 +2436,27 @@
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify left top)
 				)
 			)
-			(symbol "ESDM2032MX4T5G_1_1"
+			(property "PN" "MMBZ6V2AL,215"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "MMBZ6V2AL,215_0_1"
 				(polyline
 					(pts
-						(xy 5.08 2.54) (xy 5.08 -2.54)
+						(xy 7.62 5.08) (xy 7.62 6.35)
 					)
 					(stroke
-						(width 0.254)
+						(width 0)
 						(type default)
 					)
 					(fill
@@ -2454,10 +2465,10 @@
 				)
 				(polyline
 					(pts
-						(xy 5.08 2.54) (xy 10.16 0)
+						(xy 7.62 5.08) (xy 10.16 5.08)
 					)
 					(stroke
-						(width 0.254)
+						(width 0)
 						(type default)
 					)
 					(fill
@@ -2466,10 +2477,10 @@
 				)
 				(polyline
 					(pts
-						(xy 9.144 2.54) (xy 10.16 2.032)
+						(xy 7.62 3.81) (xy 8.89 5.08) (xy 10.16 3.81) (xy 7.62 3.81)
 					)
 					(stroke
-						(width 0.254)
+						(width 0)
 						(type default)
 					)
 					(fill
@@ -2478,10 +2489,10 @@
 				)
 				(polyline
 					(pts
-						(xy 10.16 0) (xy 5.08 -2.54)
+						(xy 7.62 1.27) (xy 10.16 1.27) (xy 8.89 0) (xy 7.62 1.27)
 					)
 					(stroke
-						(width 0.254)
+						(width 0)
 						(type default)
 					)
 					(fill
@@ -2490,10 +2501,10 @@
 				)
 				(polyline
 					(pts
-						(xy 10.16 0) (xy 15.24 -2.54)
+						(xy 7.62 0) (xy 10.16 0)
 					)
 					(stroke
-						(width 0.254)
+						(width 0)
 						(type default)
 					)
 					(fill
@@ -2502,10 +2513,10 @@
 				)
 				(polyline
 					(pts
-						(xy 10.16 -2.032) (xy 10.16 2.032)
+						(xy 8.89 1.27) (xy 8.89 3.81)
 					)
 					(stroke
-						(width 0.254)
+						(width 0)
 						(type default)
 					)
 					(fill
@@ -2514,44 +2525,22 @@
 				)
 				(polyline
 					(pts
-						(xy 10.16 -2.032) (xy 11.176 -2.54)
+						(xy 10.16 0) (xy 10.16 -1.27)
 					)
 					(stroke
-						(width 0.254)
+						(width 0)
 						(type default)
 					)
 					(fill
 						(type none)
 					)
 				)
-				(polyline
-					(pts
-						(xy 15.24 2.54) (xy 10.16 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 15.24 2.54) (xy 15.24 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
+			)
+			(symbol "MMBZ6V2AL,215_1_1"
 				(pin passive line
-					(at 0 0 0)
+					(at 8.89 10.16 270)
 					(length 5.08)
-					(name "1"
+					(name "CATHODE_(DIODE_1)"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2567,9 +2556,9 @@
 					)
 				)
 				(pin passive line
-					(at 20.32 0 180)
+					(at 8.89 -5.08 90)
 					(length 5.08)
-					(name "2"
+					(name "CATHODE_(DIODE_2)"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2577,6 +2566,24 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 13.97 2.54 180)
+					(length 5.08)
+					(name "COMMON_ANODE"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4579,6 +4586,12 @@
 		(uuid "37ada802-6f3c-4710-af12-53c6852ea152")
 	)
 	(junction
+		(at 187.96 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3feeb3f0-36d9-4c74-aa6b-673354935da8")
+	)
+	(junction
 		(at 238.76 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4657,12 +4670,6 @@
 		(uuid "9556f43b-26ff-4dd6-a7e8-efb85483e3a1")
 	)
 	(junction
-		(at 201.93 120.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "978bc830-33f0-49c9-9ea3-e979f5ae63df")
-	)
-	(junction
 		(at 82.55 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4723,12 +4730,6 @@
 		(uuid "d401ab3f-6967-4fbf-86b3-785a74895d4f")
 	)
 	(junction
-		(at 175.26 120.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d8649b97-6f91-4fb5-a3d2-e718b44bcba7")
-	)
-	(junction
 		(at 44.45 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4759,6 +4760,12 @@
 		(uuid "eaa9c37b-dd76-4c0f-a4d8-034bde5234a7")
 	)
 	(junction
+		(at 204.47 120.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f57a1cdc-c910-4a34-a6ae-b111d6afd6e3")
+	)
+	(junction
 		(at 82.55 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4769,6 +4776,10 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fdf7a409-b060-4e98-bf6b-321aadc54d47")
+	)
+	(no_connect
+		(at 256.54 130.81)
+		(uuid "74db4d26-5496-4bb6-89ca-fdd1c4e0df99")
 	)
 	(wire
 		(pts
@@ -4882,6 +4893,16 @@
 	)
 	(wire
 		(pts
+			(xy 177.8 120.65) (xy 177.8 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e78f536-7344-4351-8294-16fe54bd2963")
+	)
+	(wire
+		(pts
 			(xy 238.76 41.91) (xy 238.76 44.45)
 		)
 		(stroke
@@ -4889,6 +4910,16 @@
 			(type default)
 		)
 		(uuid "1f061294-20e4-4c91-a39d-89fc7ad07a39")
+	)
+	(wire
+		(pts
+			(xy 177.8 124.46) (xy 187.96 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f4aeb27-3b83-4fb3-933d-7be1c6ed898c")
 	)
 	(wire
 		(pts
@@ -4932,16 +4963,6 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 120.65) (xy 177.8 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "295b005b-c686-453d-8e53-cfc734110f48")
-	)
-	(wire
-		(pts
 			(xy 71.12 57.15) (xy 77.47 57.15)
 		)
 		(stroke
@@ -4952,7 +4973,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 118.11) (xy 175.26 120.65)
+			(xy 175.26 118.11) (xy 175.26 127)
 		)
 		(stroke
 			(width 0)
@@ -5059,16 +5080,6 @@
 			(type default)
 		)
 		(uuid "3a54af4e-74eb-4beb-b6e6-030af536e30c")
-	)
-	(wire
-		(pts
-			(xy 198.12 120.65) (xy 201.93 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3cb53fee-e827-4e1a-b12b-57728ec851e6")
 	)
 	(wire
 		(pts
@@ -5309,6 +5320,16 @@
 			(type default)
 		)
 		(uuid "614fc573-9b46-4213-974a-199d27bf7171")
+	)
+	(wire
+		(pts
+			(xy 251.46 138.43) (xy 251.46 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "659a4583-9498-44be-bf71-45b4f54a51cc")
 	)
 	(wire
 		(pts
@@ -5579,6 +5600,16 @@
 			(type default)
 		)
 		(uuid "7bcc21d7-9b54-4cc7-b1a4-15113b796137")
+	)
+	(wire
+		(pts
+			(xy 198.12 118.11) (xy 204.47 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d934b95-7f2e-4304-a6a8-c9e489c68ed9")
 	)
 	(wire
 		(pts
@@ -5892,7 +5923,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 120.65) (xy 201.93 128.27)
+			(xy 204.47 120.65) (xy 204.47 133.35)
 		)
 		(stroke
 			(width 0)
@@ -5939,6 +5970,16 @@
 			(type default)
 		)
 		(uuid "b2c988bd-c3fa-49d5-b993-b636e1a581a1")
+	)
+	(wire
+		(pts
+			(xy 198.12 120.65) (xy 198.12 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3c250e0-b059-40e9-9167-0b0ea93c7c13")
 	)
 	(wire
 		(pts
@@ -5992,7 +6033,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 120.65) (xy 213.36 120.65)
+			(xy 204.47 120.65) (xy 213.36 120.65)
 		)
 		(stroke
 			(width 0)
@@ -6059,26 +6100,6 @@
 			(type default)
 		)
 		(uuid "c84bdf48-b5e3-49c5-9476-02750cbdecf3")
-	)
-	(wire
-		(pts
-			(xy 198.12 118.11) (xy 201.93 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cf1a37d2-fb60-4940-aef3-f90481ad4eba")
-	)
-	(wire
-		(pts
-			(xy 175.26 120.65) (xy 175.26 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cf44245e-8fba-4c52-90d9-3aa0dea3d913")
 	)
 	(wire
 		(pts
@@ -6172,6 +6193,16 @@
 	)
 	(wire
 		(pts
+			(xy 187.96 124.46) (xy 187.96 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e34e78b0-0af5-4b10-9288-bc79637f764d")
+	)
+	(wire
+		(pts
 			(xy 167.64 73.66) (xy 167.64 74.93)
 		)
 		(stroke
@@ -6262,16 +6293,6 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 118.11) (xy 201.93 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ee4ceec2-f0f9-4af0-8f89-1d7378e049c1")
-	)
-	(wire
-		(pts
 			(xy 44.45 60.96) (xy 44.45 64.77)
 		)
 		(stroke
@@ -6309,6 +6330,16 @@
 			(type default)
 		)
 		(uuid "f346bd2a-2363-4d08-9ee2-e4ed3417e5e1")
+	)
+	(wire
+		(pts
+			(xy 187.96 124.46) (xy 198.12 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f41469bd-0429-4214-80c2-6c3d4ef1f315")
 	)
 	(wire
 		(pts
@@ -6379,6 +6410,16 @@
 			(type default)
 		)
 		(uuid "fb25eaab-bbc4-408f-858a-b0717e5c1c05")
+	)
+	(wire
+		(pts
+			(xy 204.47 118.11) (xy 204.47 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd385d25-f4f1-4a0a-b10a-bdf16d8a0f99")
 	)
 	(wire
 		(pts
@@ -7538,7 +7579,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDPWR")
-		(at 201.93 128.27 0)
+		(at 204.47 133.35 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7549,7 +7590,7 @@
 		(fields_autoplaced yes)
 		(uuid "3d3be76b-a5f5-43b2-ab2a-2994bb21d4d2")
 		(property "Reference" "#PWR0120"
-			(at 201.93 133.35 0)
+			(at 204.47 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7560,7 +7601,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 201.803 132.08 0)
+			(at 204.343 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7570,7 +7611,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 201.93 129.54 0)
+			(at 204.47 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7581,7 +7622,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 201.93 129.54 0)
+			(at 204.47 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7592,7 +7633,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 201.93 128.27 0)
+			(at 204.47 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8421,150 +8462,6 @@
 			(project "PCB336"
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "R67")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MET:ESDM2032MX4T5G")
-		(at 251.46 143.51 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5a448bb2-ab46-4e74-8d75-c994eb5aab9b")
-		(property "Reference" "D29"
-			(at 255.27 132.0799 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "ESDM2032MX4T5G"
-			(at 255.27 134.6199 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "MET:ESDM2032MX4T5G"
-			(at 345.11 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/ESDM2032-D.PDF"
-			(at 445.11 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "These Devices are PbFree, Halogen Free/BFR Free and are RoHS; Stand-off Voltage: 3.3 V; Small Body Outline Dimensions: 0.60 mm x 0.30 mm, 0.20 mm thickness; >15 A Peak Pulse Current Capable, 8x20 us Surge; Ultra-Low RDYN; FC > 350 MHz"
-			(at 251.46 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" "0.225"
-			(at 645.11 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Mouser Part Number" "863-ESDM2032MX4T5G"
-			(at 745.11 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi/ESDM2032MX4T5G?qs=BJlw7L4Cy78U%2FD4oTtRXYw%3D%3D"
-			(at 845.11 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Manufacturer_Name" "onsemi"
-			(at 945.11 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Manufacturer_Part_Number" "ESDM2032MX4T5G"
-			(at 1045.11 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "2"
-			(uuid "116bea48-b055-484c-a6d4-d3134c237fa4")
-		)
-		(pin "1"
-			(uuid "050e90e2-bd87-4035-8bae-aa316d63b199")
-		)
-		(instances
-			(project "PCB336"
-				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
-					(reference "D29")
 					(unit 1)
 				)
 			)
@@ -10142,177 +10039,6 @@
 			(project "PCB336"
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "R62")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 213.36 127 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9208abb6-29a4-4f05-a3f8-65a2a2ef66eb")
-		(property "Reference" "R76"
-			(at 215.9 125.7299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0R"
-			(at 215.9 128.2699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MET:RES_10R_SMW210R"
-			(at 211.582 127 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 213.36 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistori ad avvolgimento - SMD SMW2 10R 5%  200V 2W"
-			(at 213.36 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PN" "SMW210RJT"
-			(at 213.36 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4c042b08-fa94-450d-a205-a4568939e5f3")
-		)
-		(pin "2"
-			(uuid "1c17c183-f5b0-4d75-8506-91f4d91abfdf")
-		)
-		(instances
-			(project "PCB336"
-				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
-					(reference "R76")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:Earth")
-		(at 175.26 127 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a5cedb9a-fd6d-4ac2-9b7c-d16c6d368179")
-		(property "Reference" "#PWR0118"
-			(at 175.26 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Earth"
-			(at 175.26 132.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 175.26 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 175.26 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 175.26 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9e1ec999-43e6-4c14-8e87-64b29c83bba9")
-		)
-		(instances
-			(project "PCB336"
-				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
-					(reference "#PWR0118")
 					(unit 1)
 				)
 			)
@@ -12106,6 +11832,245 @@
 		)
 	)
 	(symbol
+		(lib_id "MET:MMBZ6V2AL,215")
+		(at 242.57 133.35 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "de1514c8-b2ab-4c19-aaa7-1d9a2a6b7275")
+		(property "Reference" "D29"
+			(at 256.794 133.604 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "MMBZ6V2AL,215"
+			(at 268.224 135.89 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "MET:MMBZ6V2AL,215"
+			(at 294.64 228.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/MMBZXAL_SER.pdf"
+			(at 294.64 328.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "MMBZ6V2AL - Low capacitance unidirectional double ESD protection diode"
+			(at 242.57 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "1.1"
+			(at 294.64 528.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" "771-MMBZ6V2AL215"
+			(at 294.64 628.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Nexperia/MMBZ6V2AL215?qs=MWRe%252BjyhxRugJZOclcIbDg%3D%3D"
+			(at 294.64 728.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "Nexperia"
+			(at 294.64 828.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MMBZ6V2AL,215"
+			(at 294.64 928.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "PN" "MMBZ6V2AL,215"
+			(at 242.57 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "020ab63c-20bc-4de6-9e2d-616b23b41aeb")
+		)
+		(pin "3"
+			(uuid "e1e168b7-a849-4730-afe4-aca677c05224")
+		)
+		(pin "2"
+			(uuid "0f7102e0-047d-452b-89ba-87d3edae8340")
+		)
+		(instances
+			(project "PCB336"
+				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
+					(reference "D29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 213.36 127 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e79cd0d5-6a63-4f43-a17e-ca130e0068b0")
+		(property "Reference" "R76"
+			(at 215.9 125.7299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0R"
+			(at 215.9 128.2699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 211.582 127 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 213.36 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic 1/10W 0603"
+			(at 213.36 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "62d1e738-9311-4196-899b-7bddf6c78745")
+		)
+		(pin "2"
+			(uuid "355195f8-a423-4ed3-b7bc-407f322b7848")
+		)
+		(instances
+			(project "PCB336"
+				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
+					(reference "R76")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "MET:ADUM3195BRQZ")
 		(at 78.74 120.65 0)
 		(mirror y)
@@ -12703,6 +12668,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDPWR")
+		(at 175.26 127 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f529d8a5-80b0-42ff-b2b2-49a2b1a5f141")
+		(property "Reference" "#PWR0157"
+			(at 175.26 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GNDPWR"
+			(at 175.133 130.81 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.26 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.26 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
+			(at 175.26 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3038726c-2173-4418-82fe-42bc11eb6c34")
+		)
+		(instances
+			(project "PCB336"
+				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
+					(reference "#PWR0157")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 238.76 128.27 0)
 		(unit 1)
@@ -12854,6 +12897,84 @@
 			(project "PCB336"
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "#PWR0117")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:Earth")
+		(at 187.96 127 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fb8c3d2d-9494-402b-8856-8a0e3220efc9")
+		(property "Reference" "#PWR0118"
+			(at 187.96 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Earth"
+			(at 187.96 132.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 187.96 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 187.96 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"Earth\""
+			(at 187.96 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e304a5ce-4e10-40a9-9251-082355664610")
+		)
+		(instances
+			(project "PCB336"
+				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
+					(reference "#PWR0118")
 					(unit 1)
 				)
 			)

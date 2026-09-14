@@ -12750,6 +12750,12 @@
 		(uuid "8422360b-3a24-44db-a5ee-886452b0fca3")
 	)
 	(junction
+		(at 109.22 156.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "90484eee-1bd6-4ac8-9aec-1d84294a40d0")
+	)
+	(junction
 		(at 171.45 21.59)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13062,6 +13068,16 @@
 			(type default)
 		)
 		(uuid "13cd549b-3e11-4cbc-a4a4-9a12c5038f79")
+	)
+	(wire
+		(pts
+			(xy 109.22 144.78) (xy 109.22 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "144049ad-ee2b-4186-9aa0-ec9b5ed64066")
 	)
 	(wire
 		(pts
@@ -14875,6 +14891,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 144.78) (xy 109.22 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c98f424b-e1d2-454e-ac7c-0a8d9c74d826")
+	)
+	(wire
+		(pts
 			(xy 48.26 132.08) (xy 48.26 147.32)
 		)
 		(stroke
@@ -15614,6 +15640,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "V_FILOUT"
+		(shape input)
+		(at 106.68 144.78 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "08482a6a-7745-4d1f-83dd-cdc3f13d0e2b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 95.2885 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)

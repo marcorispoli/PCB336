@@ -1733,30 +1733,6 @@
 			)
 		)
 	)
-	(global_label "FILOUT"
-		(shape input)
-		(at 162.56 97.79 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8ea7332d-63b5-412f-b408-e97bb84599b3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 153.2247 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "MONITOR_TAMP"
 		(shape input)
 		(at 36.83 160.02 180)
@@ -1770,6 +1746,30 @@
 		(uuid "b00055a0-bafb-48f2-98f1-71d660c0d5bb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 19.8143 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "V_FILOUT"
+		(shape input)
+		(at 162.56 97.79 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b6d4f801-2d48-4e05-af60-6b00d3c52f1a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 151.1685 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1802,30 +1802,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "FILOUT"
-		(shape input)
-		(at 92.71 97.79 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "c75d7dfa-5654-413d-b1c9-7ca3d12378f5")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 83.3747 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
@@ -1874,6 +1850,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "V_FILOUT"
+		(shape input)
+		(at 92.71 97.79 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f01f6cb1-6be2-48d2-a8ef-ae0fe2c6e31b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 81.3185 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)

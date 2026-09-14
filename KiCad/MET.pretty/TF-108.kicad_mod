@@ -1,0 +1,175 @@
+(footprint "TF-108"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "L_Toroid, Vertical series, Radial, pin pitch=11.43mm, length*width=28.6*14.3mm^2, Bourns, 5700, http://www.bourns.com/docs/Product-Datasheets/5700_series.pdf")
+	(tags "L_Toroid Vertical series Radial pin pitch 11.43mm  length 28.6mm width 14.3mm Bourns 5700")
+	(property "Reference" "REF**"
+		(at -4.4 1.6 0)
+		(layer "F.SilkS")
+		(uuid "27da64c8-3e05-4adc-abb6-eda504cd6c03")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "TF-108"
+		(at 2.8 -4.5 0)
+		(layer "F.Fab")
+		(uuid "1ec0efd7-b117-4a22-a954-fb8b3c0bd0dc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c3487112-9ac1-47c6-a9c2-72ae4ff6c08e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a0a15a4a-2cfc-46f4-863c-94a8a197e247")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "KiLib_Generator" "choke_THT"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "c1bc3900-eb8b-4d92-a17a-becdcb1e6170")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -8.45 -1.7)
+		(end -8.163481 -0.075067)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "647cba43-5eaa-440f-8ccf-c26917c31a9b")
+	)
+	(fp_line
+		(start -8.35 13.3)
+		(end -8.844897 10.493298)
+		(stroke
+			(width 0.1)
+			(type dash)
+		)
+		(layer "F.SilkS")
+		(uuid "c6529e6b-fe37-4667-860c-9827d20bfefc")
+	)
+	(fp_rect
+		(start 0 0)
+		(end 16 8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill hatch)
+		(layer "F.SilkS")
+		(uuid "4c92dfaf-055f-4980-8a36-2e208447b57e")
+	)
+	(fp_arc
+		(start 11.000001 9.85285)
+		(mid 8.51472 3.85285)
+		(end 11.000001 -2.14715)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b9204439-8d7b-4811-ab77-448077b6208d")
+	)
+	(fp_rect
+		(start 0 0)
+		(end 16 8)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "a8e0f8dd-6d67-4c44-85a9-aab3022e21c6")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 5.4 -6.6 0)
+		(layer "F.Fab")
+		(uuid "2bc83361-439d-4eeb-9220-3414a35d13bd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 13 -2)
+		(size 3 3)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1d271813-fc33-44c9-8e04-55b4a5fcdf60")
+	)
+	(pad "2" thru_hole circle
+		(at 13 10)
+		(size 3 3)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "af810ccd-8ea5-4208-b12c-1abb7510c36e")
+	)
+	(pad "3" thru_hole rect
+		(at 3 -2)
+		(size 2.5 2.5)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "91fb8980-c9e4-496b-b908-fca7334df104")
+	)
+	(pad "4" thru_hole circle
+		(at 3 10)
+		(size 2.5 2.5)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "550d2382-af51-4361-b029-2481533fdd60")
+	)
+	(embedded_fonts no)
+	(model "modelli_3d/TF108.step"
+		(offset
+			(xyz 8 -7.5 0.5)
+		)
+		(scale
+			(xyz 0.65 0.55 0.55)
+		)
+		(rotate
+			(xyz 90 -180 90)
+		)
+	)
+)

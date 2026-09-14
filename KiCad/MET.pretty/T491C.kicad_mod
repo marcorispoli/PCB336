@@ -8,7 +8,7 @@
 	(property "Reference" "C**"
 		(at -0.9 -3.5 0)
 		(layer "F.SilkS")
-		(uuid "8c8a0a85-b96b-417d-b86a-cf90b833b433")
+		(uuid "1888e0de-9a19-4f37-8bb1-6d33d4513f36")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20,7 +20,7 @@
 		(at 0 0 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "21eaf289-9417-4760-b0fc-8fd66a9d9ca7")
+		(uuid "57f2e5f6-806c-4a91-9fc9-27be1bfc1220")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -32,7 +32,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "c1b8c8a9-2c7b-49ad-8a39-262b9a11d801")
+		(uuid "3fde8972-72e6-4ae5-a6e0-54e46f3651ce")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "969b76b1-8362-41a4-badb-75ed9c449d90")
+		(uuid "0302461c-7357-416e-b46d-37c4e93857e7")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -60,7 +60,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "f1721dc7-4eec-403b-ab12-8052dd233a7a")
+		(uuid "d6d6635a-42b2-4655-9586-ed76b8c8d0d4")
 	)
 	(fp_line
 		(start -2.6 -1.6)
@@ -70,7 +70,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "8cee7d30-4974-460a-b2ff-38f9004b0ee2")
+		(uuid "87e7d049-6c9e-4dc1-8ad8-4b45e94a48c2")
 	)
 	(fp_line
 		(start -2.6 1.6)
@@ -80,7 +80,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "6e2bf7ff-ed93-4af9-8324-bf3c45e8c6dc")
+		(uuid "194b4926-e9c1-42da-bfbd-5daf9d26d05f")
 	)
 	(fp_line
 		(start 3 1.6)
@@ -90,7 +90,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "11a1cd30-5e1a-42b1-8cb4-2b4c327e68e4")
+		(uuid "ee97d173-0ea2-43a5-a3b2-3402a24f0841")
 	)
 	(fp_circle
 		(center -4.07 0)
@@ -101,7 +101,7 @@
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "4aeb6ba9-8675-47ea-a9ff-1b39d1efd058")
+		(uuid "c0ed0738-80a9-4f97-b4fd-2d70ad28a81a")
 	)
 	(fp_line
 		(start -4.455 -2.6)
@@ -111,7 +111,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "6c0b896f-5d78-48c1-8016-c93b9280c1f4")
+		(uuid "e418cf8f-a403-4082-a4a0-a19a7e8a4f2a")
 	)
 	(fp_line
 		(start -4.455 2.6)
@@ -121,7 +121,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "f4e267dd-667f-4f3e-9c42-aa979ba9d640")
+		(uuid "6ef33a5e-3420-4b08-abd6-f59d4c70a8e5")
 	)
 	(fp_line
 		(start 4.455 -2.6)
@@ -131,7 +131,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "ef34d666-7e45-4167-9352-af1b972afdd1")
+		(uuid "859aa955-4c43-47ec-961b-e9ce516b4c1f")
 	)
 	(fp_line
 		(start 4.455 2.6)
@@ -141,7 +141,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "a7e0b7a8-942e-4f9e-8742-f177a3d49b84")
+		(uuid "f34439ce-f714-40ce-ab62-dc7731c635f0")
 	)
 	(fp_line
 		(start -3 -1.6)
@@ -151,7 +151,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "15cfa3f7-8861-4b05-a705-8b4af28705cc")
+		(uuid "840da16b-cd7b-4d5e-9b63-8c972f22990b")
 	)
 	(fp_line
 		(start -3 1.6)
@@ -161,7 +161,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "04e86a31-8805-4952-9681-4d4914a2bcb7")
+		(uuid "075f1789-dfce-4dce-a6e6-714fd728abde")
 	)
 	(fp_line
 		(start 3 -1.6)
@@ -171,7 +171,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "8057b7d4-be27-496e-aacb-848173583b94")
+		(uuid "39f0bc47-fdd8-402f-ac86-efa4c7519c5a")
 	)
 	(fp_line
 		(start 3 1.6)
@@ -181,12 +181,12 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "8751b3d9-2129-48fd-b197-8d983e7eea75")
+		(uuid "d6f281da-d2d9-496e-990c-9796c7412be5")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 -5.2 0)
 		(layer "F.Fab")
-		(uuid "c451a48f-2801-4e0d-be04-a6eb6b2307f7")
+		(uuid "bee54100-5a4d-4669-83e3-4ff3033324e9")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -198,16 +198,16 @@
 		(at -2.47 0 90)
 		(size 2.23 2.37)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "c1fe4336-8551-42a6-9ee6-4a0378c1593e")
+		(uuid "89c95a63-2aec-43e6-8990-f25f238efda4")
 	)
 	(pad "2" smd rect
 		(at 2.47 0 90)
 		(size 2.23 2.37)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "b215d8b8-0a0a-44d7-8950-0075b9c84065")
+		(uuid "77484582-288b-4bec-b58f-a306ccae9f84")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/marco/Documents/Data/Progetti-GIT/HW/pcb-25-336/KiCad/METSTEP/T491C475K035AT.stp"
+	(model "modelli_3d/T491C475K035AT.stp"
 		(offset
 			(xyz 2.98 1.75 0)
 		)

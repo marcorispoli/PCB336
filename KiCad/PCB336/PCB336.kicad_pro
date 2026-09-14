@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.35,
-          "height": 1.35,
-          "width": 1.35
+          "drill": 0.0,
+          "height": 1.0,
+          "width": 1.0
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -63,7 +63,7 @@
           "min_clearance": 0.6,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
-          "pad_connection": 1,
+          "pad_connection": 2,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
@@ -78,19 +78,27 @@
       ],
       "drc_exclusions": [
         [
-          "clearance|37855000|73915000|102904c0-a769-4fcf-ac0e-5a557d80aa4b|30d1c657-5f12-4ad5-89bb-9f7eb2be6ae7",
+          "clearance|102315000|33333100|3313b899-1bc1-499d-be30-a0930824fdb8|060acd03-760c-4964-b925-54da9e3bc86b",
           ""
         ],
         [
-          "clearance|37855000|78585000|0db82003-f092-4162-bb15-c5d3e09210e7|9d4cb95a-c513-459e-b085-c8a783c12c74",
+          "clearance|106985000|33333100|32e8934c-16b9-4523-843e-d579af408a6c|aa121ceb-ba76-4e02-b76f-f53311a43395",
           ""
         ],
         [
-          "clearance|37855000|83915000|32e8934c-16b9-4523-843e-d579af408a6c|aa121ceb-ba76-4e02-b76f-f53311a43395",
+          "clearance|112315000|33333100|0db82003-f092-4162-bb15-c5d3e09210e7|9d4cb95a-c513-459e-b085-c8a783c12c74",
           ""
         ],
         [
-          "clearance|37855000|88585000|060acd03-760c-4964-b925-54da9e3bc86b|3313b899-1bc1-499d-be30-a0930824fdb8",
+          "clearance|116985000|33333100|30d1c657-5f12-4ad5-89bb-9f7eb2be6ae7|102904c0-a769-4fcf-ac0e-5a557d80aa4b",
+          ""
+        ],
+        [
+          "clearance|62210000|41020000|5b3b2315-fc9e-4f3b-8b8c-da3ae1147b48|c6223e20-a066-413e-9fc1-80eb011b5d30",
+          ""
+        ],
+        [
+          "clearance|63010000|41020000|5b3b2315-fc9e-4f3b-8b8c-da3ae1147b48|741d3b46-b0af-4f45-a276-3adcd5a55c84",
           ""
         ],
         [
@@ -98,19 +106,19 @@
           ""
         ],
         [
-          "hole_clearance|129340000|72750000|139b1361-cb42-432d-86f5-6f826c83f173|c5aaf232-2344-4494-9c63-ad152879778c",
+          "hole_clearance|129680000|61300000|139b1361-cb42-432d-86f5-6f826c83f173|c5aaf232-2344-4494-9c63-ad152879778c",
           ""
         ],
         [
-          "hole_clearance|129340000|72750000|956a5ff3-f8a5-409f-b4a3-cf823a474053|c5aaf232-2344-4494-9c63-ad152879778c",
+          "hole_clearance|129680000|61300000|956a5ff3-f8a5-409f-b4a3-cf823a474053|c5aaf232-2344-4494-9c63-ad152879778c",
+          ""
+        ],
+        [
+          "hole_clearance|78500000|117700000|359b096f-efe2-41db-96ba-26965dd9c042|daf577c6-b47f-4fde-88c1-65fec0941f85",
           ""
         ],
         [
           "lib_footprint_mismatch|124000000|124500000|61602134-e415-458f-a492-a5fcc25aa9d3|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "lib_footprint_mismatch|128139700|71470800|46077764-15e0-47a8-964d-cb394b223324|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
@@ -138,6 +146,10 @@
           ""
         ],
         [
+          "silk_edge_clearance|133000000|57395400|1119a02a-6881-4c08-a3f9-d0977e8df4d8|86229a9f-9a50-4659-bdb6-3ddbc24aba7a",
+          ""
+        ],
+        [
           "silk_edge_clearance|37100000|173500000|5266e792-1430-48a2-b592-1912ff72192e|65aded52-0a3f-488c-8496-798cc374defd",
           ""
         ],
@@ -146,11 +158,11 @@
           ""
         ],
         [
-          "silk_over_copper|129876600|72750000|86229a9f-9a50-4659-bdb6-3ddbc24aba7a|c5aaf232-2344-4494-9c63-ad152879778c",
+          "silk_over_copper|130216600|61300000|86229a9f-9a50-4659-bdb6-3ddbc24aba7a|c5aaf232-2344-4494-9c63-ad152879778c",
           ""
         ],
         [
-          "silk_over_copper|41994819|46219047|02ff9a56-9706-4b76-a2ea-2a9079307e06|c4cea7e3-a1d4-4344-9a2a-16e20447bfae",
+          "silk_over_copper|42994819|46219047|02ff9a56-9706-4b76-a2ea-2a9079307e06|c4cea7e3-a1d4-4344-9a2a-16e20447bfae",
           ""
         ]
       ],
@@ -733,18 +745,22 @@
       {
         "netclass": "Power",
         "pattern": "-24V"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/POWER/+B2"
       }
     ]
   },
   "pcbnew": {
     "last_paths": {
       "gencad": "",
-      "idf": "",
+      "idf": "ESECUTIVI/IDF/PCB336.emn",
       "netlist": "",
-      "plot": "",
+      "plot": "ESECUTIVI/GERBER/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "PCB336.step",
       "svg": "",
       "vrml": ""
     },
@@ -988,7 +1004,7 @@
         "uuid": "c130dc83-9a33-4b17-8573-1389a3b65851"
       }
     ],
-    "used_designators": "JP1,FL1-2,TP1-17,RV1-2,F1-2,C1-68,#PWR1-175,T1,L1-3,IC1-15,U1-4,J1-8,D1-37,#FLG1-14,R1-84,Q1-13,K1-4",
+    "used_designators": "JP1,FL1-2,TP1-17,RV1-2,F1-2,C1-68,#PWR1-178,T1,L1-3,IC1-15,U1-4,J1-8,D1-37,#FLG1-14,R1-84,Q1-13,K1-4",
     "variants": []
   },
   "sheets": [

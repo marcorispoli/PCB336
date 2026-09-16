@@ -1967,6 +1967,17 @@
 				)
 			)
 		)
+		(property "Package" "SOD-123"
+			(at 45.72 91.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "db57e2fd-12d2-4511-a361-2890337ad21d")
 		)
@@ -2070,6 +2081,17 @@
 				)
 			)
 		)
+		(property "Package" "SOD-123"
+			(at 97.79 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4b074de3-67ee-4821-a66b-ff363259eb53")
 		)
@@ -2142,6 +2164,17 @@
 		)
 		(property "Description" "Generic 1/10W 0603"
 			(at 45.72 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
+			(at 45.72 160.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2333,6 +2366,17 @@
 				)
 			)
 		)
+		(property "Package" "SOD-123"
+			(at 118.11 91.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "08393714-77f2-4b42-b6f8-49ae94f59449")
 		)
@@ -2481,6 +2525,17 @@
 			)
 		)
 		(property "Description" "Generic 1/10W 0603"
+			(at 186.69 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
 			(at 186.69 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -2672,6 +2727,17 @@
 				)
 			)
 		)
+		(property "Package" "SOD-123"
+			(at 118.11 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "951e1ef8-50c8-4521-a8ac-20fb58d716e8")
 		)
@@ -2853,6 +2919,17 @@
 				)
 			)
 		)
+		(property "Package" "SOD-123"
+			(at 41.91 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dead7374-e009-4475-b8e6-f122167aa87c")
 		)
@@ -2924,6 +3001,17 @@
 			)
 		)
 		(property "Description" "Generic 1/10W 0603"
+			(at 137.16 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
 			(at 137.16 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -3084,6 +3172,17 @@
 		)
 		(property "Description" "Generic 1/10W 0603"
 			(at 54.61 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
+			(at 54.61 40.64 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3329,6 +3428,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0603"
+			(at 110.49 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "44093ea7-0a37-4fad-b5b4-d2e4fa0b6db8")
 		)
@@ -3434,6 +3544,17 @@
 				)
 			)
 		)
+		(property "Package" "SOD-123"
+			(at 53.34 153.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4beed36d-cdb9-4d7e-b7c3-5990dfa1a15d")
 		)
@@ -3505,6 +3626,17 @@
 			)
 		)
 		(property "Description" "Generic 1/10W 0603"
+			(at 48.26 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
 			(at 48.26 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -3611,6 +3743,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 186.69 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SOD-123"
+			(at 186.69 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3778,6 +3921,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0603"
+			(at 127 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e5a7b433-ceaf-4522-8a73-14f6e62cfe4a")
 		)
@@ -3936,6 +4090,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0603"
+			(at 45.72 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1f4e81cf-b3e8-449e-970e-56406b7b4bd0")
 		)
@@ -4007,6 +4172,17 @@
 			)
 		)
 		(property "Description" "Generic 1/10W 0603"
+			(at 53.34 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
 			(at 53.34 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -4200,6 +4376,17 @@
 				)
 			)
 		)
+		(property "Package" "SOD-123"
+			(at 60.96 35.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5c40176b-b01d-4f7f-84c4-c1da6040a8d1")
 		)
@@ -4272,6 +4459,17 @@
 		)
 		(property "Description" "Generic 1/10W 0603"
 			(at 179.07 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
+			(at 179.07 97.79 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4541,6 +4739,17 @@
 				)
 			)
 		)
+		(property "Package" "SOD-123"
+			(at 137.16 35.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9aed8e59-20b0-453d-8997-e49ecdaff51b")
 		)
@@ -4687,7 +4896,18 @@
 				)
 			)
 		)
-		(property "Description" "X7R, 10%, 50V"
+		(property "Description" "SMD 0805, X7R, 10%, 50V"
+			(at 128.27 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 128.27 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -4801,6 +5021,17 @@
 				)
 			)
 		)
+		(property "Package" "SOD-123"
+			(at 170.18 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "abdbbdd1-fb70-4e9a-ac73-05654e773673")
 		)
@@ -4873,6 +5104,17 @@
 		)
 		(property "Description" "Generic 1/10W 0603"
 			(at 38.1 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
+			(at 38.1 97.79 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4963,6 +5205,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0603"
+			(at 118.11 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9ef7c7a0-e8f5-483c-81c6-48daf0fcac2c")
 		)
@@ -5031,7 +5284,18 @@
 				)
 			)
 		)
-		(property "Description" "X7R, 10%, 50V"
+		(property "Description" "SMD 0805, X7R, 10%, 50V"
+			(at 63.5 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 63.5 167.64 0)
 			(hide yes)
 			(show_name no)

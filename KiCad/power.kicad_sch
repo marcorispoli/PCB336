@@ -20799,6 +20799,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0805"
+			(at 246.38 52.07 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a99529bb-3c7d-468e-ace8-689811c64916")
 		)
@@ -20950,7 +20961,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "SMD, MnO2, Molded"
+		(property "Description" "C-CASE,  SMD, Tantalium  MnO2, Molded"
 			(at 88.9 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -21023,6 +21034,17 @@
 		)
 		(property "PN" "T491C475K035AT"
 			(at 88.9 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 88.9 135.89 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21277,6 +21299,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 115.57 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4cf473ff-58a6-41cb-9ef5-90278a98c5f0")
 		)
@@ -21436,6 +21469,17 @@
 			)
 		)
 		(property "PN" "NCP1117ST33T3G"
+			(at 162.56 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SOT-223-3"
 			(at 162.56 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -21630,6 +21674,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0805"
+			(at 231.14 50.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "37443415-fb19-4498-9f07-5e19f28fb01b")
 		)
@@ -21733,6 +21788,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0805"
+			(at 264.16 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7d01cf06-b218-4b97-b109-e580aab5db6e")
 		)
@@ -21804,6 +21870,17 @@
 		)
 		(property "Description" "Solder Jumper, 2-pole, closed/bridged"
 			(at 74.93 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 74.93 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21916,6 +21993,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0805"
+			(at 262.89 52.07 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "242428b6-b2b0-47eb-bea4-0e37a1d6023d")
 		)
@@ -21988,6 +22076,17 @@
 			)
 		)
 		(property "Description" "Resistore 1/4W, 0805"
+			(at 231.14 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0805"
 			(at 231.14 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -22071,7 +22170,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "SMD, MnO2, Molded"
+		(property "Description" "C-CASE,  SMD, Tantalium  MnO2, Molded"
 			(at 177.8 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -22144,6 +22243,17 @@
 		)
 		(property "PN" "T491C475K035AT"
 			(at 177.8 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 177.8 69.85 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22293,6 +22403,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(property "Package" ""
+			(at 35.56 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -22445,6 +22566,17 @@
 			)
 		)
 		(property "Description" "Resistore 1/4W, 0805"
+			(at 246.38 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0805"
 			(at 246.38 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -22613,6 +22745,17 @@
 		)
 		(property "PN" "870575774002"
 			(at 128.27 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 128.27 71.12 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22852,7 +22995,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "SMD, MnO2, Molded"
+		(property "Description" "C-CASE,  SMD, Tantalium  MnO2, Molded"
 			(at 177.8 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -22925,6 +23068,17 @@
 		)
 		(property "PN" "T491C475K035AT"
 			(at 177.8 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 177.8 39.37 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23091,6 +23245,17 @@
 		)
 		(property "Color" "RED"
 			(at 141.224 23.876 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 140.97 33.02 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23276,6 +23441,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 242.57 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "34c4a5fc-59f1-4ede-9a65-1a382a0c91f9")
 		)
@@ -23439,6 +23615,17 @@
 		)
 		(property "Color" "RED"
 			(at 193.294 25.146 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 193.04 34.29 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23679,6 +23866,17 @@
 		)
 		(property "Color" "RED"
 			(at 142.494 124.206 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 142.24 133.35 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24007,6 +24205,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 128.27 36.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1f02855b-3c9d-4f0f-b8cc-48dd11f615fc")
 		)
@@ -24078,7 +24287,18 @@
 				)
 			)
 		)
-		(property "Description" "X7R, 10%, 50V"
+		(property "Description" "SMD 0805, X7R, 10%, 50V"
+			(at 193.04 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 193.04 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -24160,7 +24380,18 @@
 				)
 			)
 		)
-		(property "Description" "X7R, 10%, 50V"
+		(property "Description" "SMD 0805, X7R, 10%, 50V"
+			(at 191.77 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 191.77 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -24336,6 +24567,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 80.01 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4f349e67-8d41-4cb1-b65e-3176685b7916")
 		)
@@ -24499,6 +24741,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 140.97 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "097688dd-6752-4262-bc19-e7a3e2a9dcab")
 		)
@@ -24568,6 +24821,17 @@
 			)
 		)
 		(property "Description" "Resistore 1/4W, 0805"
+			(at 264.16 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0805"
 			(at 264.16 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -24649,7 +24913,18 @@
 				)
 			)
 		)
-		(property "Description" "X7R, 10%, 50V"
+		(property "Description" "SMD 0805, X7R, 10%, 50V"
+			(at 57.15 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 57.15 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -25192,6 +25467,17 @@
 				(justify left top)
 			)
 		)
+		(property "Package" ""
+			(at 146.05 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "179a5508-c5bc-4db4-a2ad-9bf407b0b0cd")
 		)
@@ -25454,6 +25740,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0805"
+			(at 232.41 96.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5bad3425-ccca-4741-b034-25eb88600d8c")
 		)
@@ -25594,6 +25891,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(property "Package" ""
+			(at 64.77 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -25971,6 +26279,17 @@
 				(justify left top)
 			)
 		)
+		(property "Package" ""
+			(at 59.69 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "036b5104-dc7d-48aa-ab5a-abc46a9cdbbb")
 		)
@@ -26123,6 +26442,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(property "Package" ""
+			(at 96.52 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -26288,6 +26618,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0805"
+			(at 247.65 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "66acdc71-79b0-44f1-8c81-0b70658ca417")
 		)
@@ -26361,7 +26702,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "SMD, MnO2, Molded"
+		(property "Description" "C-CASE,  SMD, Tantalium  MnO2, Molded"
 			(at 43.18 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -26434,6 +26775,17 @@
 		)
 		(property "PN" "T491C475K035AT"
 			(at 43.18 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 43.18 135.89 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26583,6 +26935,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(property "Package" ""
+			(at 146.05 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "3"
@@ -26748,6 +27111,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0805"
+			(at 232.41 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "65dac3dc-00d4-4a60-9ff7-a93a3326de7a")
 		)
@@ -26821,7 +27195,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "SMD, MnO2, Molded"
+		(property "Description" "C-CASE,  SMD, Tantalium  MnO2, Molded"
 			(at 177.8 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -26894,6 +27268,17 @@
 		)
 		(property "PN" "T491C475K035AT"
 			(at 177.8 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 177.8 135.89 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27147,6 +27532,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 115.57 36.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c4c03342-4cff-421c-931d-e80ecf96cb92")
 		)
@@ -27391,6 +27787,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 193.04 86.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ed7a4516-c099-484d-a871-0ad819d15fa7")
 		)
@@ -27528,6 +27935,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(property "Package" ""
+			(at 35.56 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -27695,6 +28113,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 191.77 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d2a802e5-5c90-4a9d-87f1-f31e2b191874")
 		)
@@ -27764,6 +28193,17 @@
 			)
 		)
 		(property "Description" "Resistore 1/4W, 0805"
+			(at 262.89 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0805"
 			(at 262.89 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -27878,6 +28318,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0805"
+			(at 247.65 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b679c282-c7d9-48a0-a394-6ecb66004291")
 		)
@@ -27949,7 +28400,18 @@
 				)
 			)
 		)
-		(property "Description" "X7R, 10%, 50V"
+		(property "Description" "SMD 0805, X7R, 10%, 50V"
+			(at 193.04 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 193.04 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -28187,7 +28649,18 @@
 				)
 			)
 		)
-		(property "Description" "X7R, 10%, 50V"
+		(property "Description" "SMD 0805, X7R, 10%, 50V"
+			(at 142.24 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 142.24 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -28506,7 +28979,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "SMD, MnO2, Molded"
+		(property "Description" "C-CASE,  SMD, Tantalium  MnO2, Molded"
 			(at 128.27 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -28579,6 +29052,17 @@
 		)
 		(property "PN" "T491C475K035AT"
 			(at 128.27 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 128.27 135.89 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28728,6 +29212,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(property "Package" ""
+			(at 59.69 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"

@@ -3981,7 +3981,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "SMD, MnO2, Molded"
+		(property "Description" "C-CASE,  SMD, Tantalium  MnO2, Molded"
 			(at 185.42 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -4054,6 +4054,17 @@
 		)
 		(property "PN" "T491C475K035AT"
 			(at 185.42 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 185.42 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4207,6 +4218,17 @@
 		)
 		(property "PN" "105312-1104"
 			(at 88.9 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 88.9 92.71 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4530,7 +4552,18 @@
 				)
 			)
 		)
-		(property "Description" "X7R, 10%, 50V"
+		(property "Description" "SMD 0805, X7R, 10%, 50V"
+			(at 62.23 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 62.23 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -4614,7 +4647,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "SMD, MnO2, Molded"
+		(property "Description" "C-CASE,  SMD, Tantalium  MnO2, Molded"
 			(at 154.94 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -4687,6 +4720,17 @@
 		)
 		(property "PN" "T491C475K035AT"
 			(at 154.94 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 154.94 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4845,6 +4889,17 @@
 		)
 		(property "Description" "Resistore 1/4W, 0805"
 			(at 160.02 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0805"
+			(at 160.02 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5074,6 +5129,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(property "Package" "SOIC"
+			(at 124.46 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "7"
@@ -5394,6 +5460,17 @@
 				(justify left top)
 			)
 		)
+		(property "Package" ""
+			(at 167.64 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "cca31d04-a02f-4d4e-9ac8-9ba7374b2350")
 		)
@@ -5500,6 +5577,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0805"
+			(at 139.7 114.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "95c482de-748e-4122-b859-e2ee140f51ab")
 		)
@@ -5569,7 +5657,18 @@
 				)
 			)
 		)
-		(property "Description" "X7R, 10%, 50V"
+		(property "Description" "SMD 0805, X7R, 10%, 50V"
+			(at 113.03 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 113.03 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -5889,6 +5988,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 90.17 124.46 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ba5a7ef7-4072-4d9f-b18e-dc6753184db9")
 		)
@@ -5973,6 +6083,17 @@
 			)
 		)
 		(property "Description" "Generic 1/10W 0603"
+			(at 190.5 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
 			(at 190.5 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -6221,6 +6342,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0805"
+			(at 139.7 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4c2ae600-14e8-4e04-8c92-01f963002bd7")
 		)
@@ -6442,6 +6574,17 @@
 			)
 		)
 		(property "PN" "NJM78L05UA-TE1"
+			(at 153.67 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 153.67 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -6679,6 +6822,17 @@
 			)
 		)
 		(property "PN" "MAX22246CAWA/V+"
+			(at 66.04 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SOIC"
 			(at 66.04 45.72 0)
 			(hide yes)
 			(show_name no)

@@ -5429,6 +5429,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0805"
+			(at 259.08 27.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7337517b-8b82-4028-8386-5ffbc9ddfd6b")
 		)
@@ -5501,6 +5512,17 @@
 			)
 		)
 		(property "Description" "Generic 1/10W 0603"
+			(at 215.9 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
 			(at 215.9 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -5670,6 +5692,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0603"
+			(at 218.44 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "db843657-c37e-4aae-80ce-5a29fdb7bf43")
 		)
@@ -5813,6 +5846,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(property "Package" ""
+			(at 128.27 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -5974,6 +6018,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0603"
+			(at 102.87 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "229687fd-9e59-4caa-95bd-ec95c6885d20")
 		)
@@ -6045,7 +6100,18 @@
 				)
 			)
 		)
-		(property "Description" "X7R, 10%, 50V"
+		(property "Description" "SMD 0805, X7R, 10%, 50V"
+			(at 104.14 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 104.14 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -6198,6 +6264,17 @@
 				(justify left top)
 			)
 		)
+		(property "Package" ""
+			(at 35.56 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "d8430aff-a592-4ec0-9a19-f85744bb2851")
 		)
@@ -6279,8 +6356,19 @@
 				)
 			)
 		)
-		(property "Description" "X7R, 10%, 50V"
+		(property "Description" "SMD 0805, X7R, 10%, 50V"
 			(at 114.3 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 114.3 40.64 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6394,6 +6482,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0805"
+			(at 215.9 123.19 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "12c79a18-dcb4-439e-af7a-5fb257ae6eb2")
 		)
@@ -6466,6 +6565,17 @@
 			)
 		)
 		(property "Description" "Generic 1/10W 0603"
+			(at 248.92 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
 			(at 248.92 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -6570,6 +6680,17 @@
 			)
 		)
 		(property "Color" "YELLOW"
+			(at 259.08 123.19 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0805"
 			(at 259.08 123.19 90)
 			(hide yes)
 			(show_name no)
@@ -6726,7 +6847,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC - SMD/SMT 10V 10uF  X7R  0805 10%"
+		(property "Description" "SMD 0805, MLCC - SMD/SMT 10V 10uF  X7R  10%"
 			(at 106.68 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -6750,6 +6871,17 @@
 		)
 		(property "MOUSER" "80-C0805X106K8RAUTLR"
 			(at 106.68 35.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 106.68 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6841,6 +6973,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0603"
+			(at 259.08 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fbc4eeaf-29f6-4996-b74f-a4e9cac27a16")
 		)
@@ -6913,6 +7056,17 @@
 			)
 		)
 		(property "Description" "SAM E51 Microchip SMART ARM Cortex-M4F-based MCU, 1024K Flash, 256K SRAM, TQFP-64"
+			(at 128.27 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "TQFP-64"
 			(at 128.27 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -7256,7 +7410,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC - SMD/SMT 35V 4u7F X7R 1206 10%"
+		(property "Description" "SMD 1206, MLCC - 35V 4u7F X7R 1206 10%"
 			(at 114.3 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -7279,6 +7433,17 @@
 			)
 		)
 		(property "MOUSER" "80-C1206C475K6R"
+			(at 114.3 45.72 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 114.3 45.72 90)
 			(hide yes)
 			(show_name no)
@@ -7393,6 +7558,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0805"
+			(at 259.08 74.93 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "12b17c9b-114e-4c97-9a5e-3ea1a2495cf6")
 		)
@@ -7465,6 +7641,17 @@
 			)
 		)
 		(property "Description" "Generic 1/10W 0603"
+			(at 218.44 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
 			(at 218.44 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -7713,6 +7900,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0603"
+			(at 259.08 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3d450634-7484-43e2-875c-1b5f74ca2f67")
 		)
@@ -7807,6 +8005,17 @@
 			)
 		)
 		(property "Color" "YELLOW"
+			(at 218.44 74.93 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0805"
 			(at 218.44 74.93 90)
 			(hide yes)
 			(show_name no)
@@ -7990,6 +8199,17 @@
 				)
 			)
 		)
+		(property "Package" "SOT-23"
+			(at 256.54 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6d16f6e3-7487-4936-a78f-cfa966b57ecc")
 		)
@@ -8157,6 +8377,17 @@
 			)
 		)
 		(property "MOUSER" "863-2N7002LT1G"
+			(at 215.9 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SOT-23"
 			(at 215.9 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -8499,6 +8730,17 @@
 				)
 			)
 		)
+		(property "Package" "SOT-23"
+			(at 215.9 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ab820d02-a63c-4f8f-9cd4-ebb0daacea70")
 		)
@@ -8584,6 +8826,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0603"
+			(at 259.08 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "440a57d1-a351-4c53-a2e0-ee5faf453a55")
 		)
@@ -8653,8 +8906,19 @@
 				)
 			)
 		)
-		(property "Description" "X7R, 10%, 50V"
+		(property "Description" "SMD 0805, X7R, 10%, 50V"
 			(at 142.24 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 142.24 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8991,6 +9255,17 @@
 				)
 			)
 		)
+		(property "Package" "SOT-23"
+			(at 256.54 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b2fee11b-6f4e-4afe-8400-712070540702")
 		)
@@ -9062,8 +9337,19 @@
 				)
 			)
 		)
-		(property "Description" "X7R, 10%, 50V"
+		(property "Description" "SMD 0805, X7R, 10%, 50V"
 			(at 129.54 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 129.54 26.67 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9143,6 +9429,17 @@
 		)
 		(property "Description" "Generic 1/10W 0603"
 			(at 87.63 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
+			(at 87.63 139.7 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9298,8 +9595,19 @@
 				)
 			)
 		)
-		(property "Description" "X7R, 10%, 50V"
+		(property "Description" "SMD 0805, X7R, 10%, 50V"
 			(at 129.54 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 129.54 36.83 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9624,6 +9932,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0603"
+			(at 208.28 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "66327616-2975-4c36-84ce-b9031d450e3e")
 		)
@@ -9710,6 +10029,17 @@
 			)
 		)
 		(property "MOUSER" "863-2N7002LT1G"
+			(at 256.54 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SOT-23"
 			(at 256.54 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -9897,6 +10227,17 @@
 				)
 			)
 		)
+		(property "Package" "SOT-23"
+			(at 213.36 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2f066d09-eb5b-48a9-ace5-cdfbf0d21204")
 		)
@@ -9970,6 +10311,17 @@
 		)
 		(property "Description" "Generic 1/10W 0603"
 			(at 87.63 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
+			(at 87.63 132.08 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10125,8 +10477,19 @@
 				)
 			)
 		)
-		(property "Description" "X7R, 10%, 50V"
+		(property "Description" "SMD 0805, X7R, 10%, 50V"
 			(at 129.54 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 129.54 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10317,6 +10680,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0805"
+			(at 218.44 27.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "22766baa-e2a6-4240-9201-15a101d3fdff")
 		)
@@ -10462,6 +10836,17 @@
 				(justify left top)
 			)
 		)
+		(property "Package" ""
+			(at 139.7 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "dddbbf29-ebe1-4ca7-b1da-2e42037a8764")
 		)
@@ -10533,7 +10918,18 @@
 				)
 			)
 		)
-		(property "Description" "X7R, 10%, 50V"
+		(property "Description" "SMD 0805, X7R, 10%, 50V"
+			(at 96.52 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 96.52 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -10690,8 +11086,19 @@
 				)
 			)
 		)
-		(property "Description" "X7R, 10%, 50V"
+		(property "Description" "SMD 0805, X7R, 10%, 50V"
 			(at 129.54 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 129.54 31.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

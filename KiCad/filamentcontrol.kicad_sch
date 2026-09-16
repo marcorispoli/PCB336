@@ -16135,6 +16135,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD1206"
+			(at 114.3 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3dcd614c-f2e6-4338-96db-2d53dd96a6f3")
 		)
@@ -16207,6 +16218,17 @@
 			)
 		)
 		(property "Description" "Generic 1/10W 0603"
+			(at 259.08 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
 			(at 259.08 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -16445,6 +16467,17 @@
 		)
 		(property "Description" "Generic 1/10W 0603"
 			(at 214.63 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
+			(at 214.63 30.48 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16763,6 +16796,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 255.27 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "bd7e0f13-3a82-4e71-93f7-91d683c472c8")
 		)
@@ -16863,6 +16907,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0603"
+			(at 35.56 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1970ce08-dc79-48bd-845e-1af6319b225a")
 		)
@@ -16935,6 +16990,17 @@
 		)
 		(property "Description" "Generic 1/10W 0603"
 			(at 240.03 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
+			(at 240.03 29.21 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17111,6 +17177,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 54.61 189.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9e8acc34-234d-4974-85df-0a80cfd91628")
 		)
@@ -17183,6 +17260,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 209.55 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 209.55 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -17421,6 +17509,17 @@
 				(justify left top)
 			)
 		)
+		(property "Package" "DO-214AB"
+			(at 88.9 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "42f67f47-64bd-4d3e-8307-bb9393691a40")
 		)
@@ -17501,6 +17600,17 @@
 			)
 		)
 		(property "PN" "CNA5L1X7R1H106K160AE"
+			(at 279.4 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 279.4 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -17612,6 +17722,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 44.45 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d40d3ce8-b985-4fb9-a6c3-9a532a54c746")
 		)
@@ -17713,6 +17834,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 35.56 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d6409919-5195-4faf-a047-ff5991838a25")
 		)
@@ -17781,8 +17913,19 @@
 				)
 			)
 		)
-		(property "Description" "X7R, 10%, 50V"
+		(property "Description" "SMD 0805, X7R, 10%, 50V"
 			(at 205.74 20.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 205.74 20.32 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17929,6 +18072,17 @@
 				)
 			)
 		)
+		(property "Package" "Serie 3296"
+			(at 97.79 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "865db71d-dd77-4ee8-a7ec-bc07c1e2b5b7")
 		)
@@ -18033,6 +18187,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 91.44 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e2045033-0d82-4b6b-b570-967a95ba2ab5")
 		)
@@ -18125,6 +18290,17 @@
 		)
 		(property "MOUSER" "581-KAF31NR71C105JU"
 			(at 101.6 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 101.6 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18291,6 +18467,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 58.42 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d69c623d-8e6d-47be-8ea1-d479e04b4b2b")
 		)
@@ -18363,6 +18550,17 @@
 		)
 		(property "Description" "Generic 1/10W 0603"
 			(at 205.74 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
+			(at 205.74 36.83 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18531,6 +18729,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0603"
+			(at 26.67 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6f94e414-ed92-47f5-b070-a127180689b5")
 		)
@@ -18599,8 +18808,19 @@
 				)
 			)
 		)
-		(property "Description" "X7R, 10%, 50V"
+		(property "Description" "SMD 0805, X7R, 10%, 50V"
 			(at 264.16 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 264.16 29.21 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18789,6 +19009,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 60.96 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e37e8a7a-cc6a-4818-ac03-2191d3c8c9ab")
 		)
@@ -18862,6 +19093,17 @@
 		)
 		(property "Description" "Generic 1/10W 0603"
 			(at 50.8 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
+			(at 50.8 90.17 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19019,6 +19261,17 @@
 			)
 		)
 		(property "Description" "Current sens trasformer TF-108"
+			(at 116.84 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 116.84 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -19190,6 +19443,17 @@
 				)
 			)
 		)
+		(property "Package" "SOT-23"
+			(at 289.56 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "33610a93-fbdb-4d89-9c61-d14ca0e2ff47")
 		)
@@ -19264,6 +19528,17 @@
 			)
 		)
 		(property "Description" "Generic 1/10W 0603"
+			(at 166.37 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
 			(at 166.37 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -19443,6 +19718,17 @@
 			)
 		)
 		(property "MOUSER" "581-KAF31NR71C105JU"
+			(at 161.29 21.59 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 161.29 21.59 90)
 			(hide yes)
 			(show_name no)
@@ -19847,6 +20133,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0603"
+			(at 29.21 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "caa87479-cc93-4360-87aa-4e8ce194d972")
 		)
@@ -19989,6 +20286,17 @@
 				(justify left top)
 			)
 		)
+		(property "Package" "DO-214AB"
+			(at 92.71 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "520c1a7a-f192-41c9-9dbc-83156a5bdb1d")
 		)
@@ -20118,6 +20426,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 87.63 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "984c825d-0a1d-41ea-bc1a-00ffe6bdaa2e")
 		)
@@ -20189,6 +20508,17 @@
 			)
 		)
 		(property "Description" "Generic 1/10W 0603"
+			(at 156.21 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
 			(at 156.21 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -20359,6 +20689,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0603"
+			(at 67.31 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6af96bc3-9e8c-47e6-b383-6f5940b326dc")
 		)
@@ -20518,6 +20859,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0603"
+			(at 106.68 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dced1abe-3c7e-4542-8bde-a1ad3eb449e4")
 		)
@@ -20589,6 +20941,17 @@
 			)
 		)
 		(property "Description" "Generic 1/10W 0603"
+			(at 168.91 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
 			(at 168.91 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -20678,6 +21041,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 156.21 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a41a2c93-78f2-474f-b420-92e0c03ed9ea")
 		)
@@ -20746,8 +21120,19 @@
 				)
 			)
 		)
-		(property "Description" "X7R, 10%, 50V"
+		(property "Description" "SMD 0805, X7R, 10%, 50V"
 			(at 171.45 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 171.45 60.96 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20825,8 +21210,19 @@
 				)
 			)
 		)
-		(property "Description" "X7R, 10%, 50V"
+		(property "Description" "SMD 0805, X7R, 10%, 50V"
 			(at 59.69 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 59.69 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21138,7 +21534,18 @@
 				)
 			)
 		)
-		(property "Description" "X7R, 10%, 50V"
+		(property "Description" "SMD 0805, X7R, 10%, 50V"
+			(at 30.48 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 30.48 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -21235,6 +21642,17 @@
 			)
 		)
 		(property "MOUSER" "863-2N7002LT1G"
+			(at 241.3 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SOT-23"
 			(at 241.3 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -21415,6 +21833,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 67.31 132.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "37b79b6a-a59f-48e2-a67c-26a6f422b08b")
 		)
@@ -21572,6 +22001,17 @@
 		)
 		(property "Color" "WHITE"
 			(at 188.214 19.812 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 182.88 25.4 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21742,6 +22182,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 106.68 184.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "524b11b4-126f-4837-8f03-6fa06970d84b")
 		)
@@ -21876,6 +22327,17 @@
 				)
 			)
 		)
+		(property "Package" "Serie 3296"
+			(at 156.21 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6f8c7e3e-737f-4a5a-a34c-e30189ee4c5e")
 		)
@@ -21980,6 +22442,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 264.16 22.86 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "805448cc-3438-473e-8cc0-4fbf722b2717")
 		)
@@ -22072,6 +22545,17 @@
 		)
 		(property "MOUSER" "581-KAF31NR71C105JU"
 			(at 91.44 113.03 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 91.44 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22309,6 +22793,17 @@
 		)
 		(property "Description" "Generic 1/10W 0603"
 			(at 205.74 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
+			(at 205.74 25.4 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22564,6 +23059,17 @@
 			)
 		)
 		(property "MOUSER" "581-KAF31NR71C105JU"
+			(at 34.29 90.17 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 34.29 90.17 90)
 			(hide yes)
 			(show_name no)
@@ -22962,6 +23468,17 @@
 				)
 			)
 		)
+		(property "Package" "SOT-23"
+			(at 189.23 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b2f8fcef-256a-4009-97d1-6a6c13770635")
 		)
@@ -23046,6 +23563,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0603"
+			(at 146.05 39.37 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f7884d1a-57c9-4289-817d-9390025c2b80")
 		)
@@ -23117,6 +23645,17 @@
 			)
 		)
 		(property "Description" "Generic 1/10W 0603"
+			(at 35.56 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
 			(at 35.56 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -23283,6 +23822,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0603"
+			(at 106.68 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1e8342a2-773c-47cc-9be6-4d12f6625eac")
 		)
@@ -23401,6 +23951,17 @@
 			)
 		)
 		(property "PN" "EEU-EE2D101S"
+			(at 93.98 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 93.98 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -23569,6 +24130,17 @@
 		)
 		(property "PN" "870575774002"
 			(at 67.31 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 67.31 189.23 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24054,6 +24626,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 64.77 31.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f6ed58f3-5d2a-4014-a5ab-60b2452c7536")
 		)
@@ -24122,6 +24705,17 @@
 			)
 		)
 		(property "Description" "Generic 1/10W 0603"
+			(at 156.21 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
 			(at 156.21 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -24204,6 +24798,17 @@
 			)
 		)
 		(property "Description" "Generic 1/10W 0603"
+			(at 55.88 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
 			(at 55.88 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -24435,6 +25040,17 @@
 			)
 		)
 		(property "PN" "LM358BAIDR"
+			(at 199.39 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SOIC"
 			(at 199.39 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -24706,6 +25322,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 114.3 157.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "df3a6bda-10c1-417d-af0e-848cabe263ca")
 		)
@@ -24868,6 +25495,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 229.87 128.27 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "baa9de39-11cf-4568-80f9-5afaa01d477e")
 		)
@@ -24937,6 +25575,17 @@
 			)
 		)
 		(property "Description" "Generic 1/10W 0603"
+			(at 267.97 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
 			(at 267.97 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -25097,6 +25746,17 @@
 			)
 		)
 		(property "Description" "Generic 1/10W 0603"
+			(at 199.39 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
 			(at 199.39 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -25405,6 +26065,17 @@
 				(justify left top)
 			)
 		)
+		(property "Package" "DIL"
+			(at 67.31 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9961e6c5-6972-4673-9373-f2148e515c4f")
 		)
@@ -25528,6 +26199,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0603"
+			(at 58.42 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "19088d2e-3801-4bba-9437-d5b114c83d2c")
 		)
@@ -25597,6 +26279,17 @@
 			)
 		)
 		(property "Description" "CG0, 10%, 50V,0603"
+			(at 43.18 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 43.18 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -25678,6 +26371,28 @@
 			)
 		)
 		(property "Description" ""
+			(at 30.48 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "PCB319-2"
+			(at 30.48 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "PCB319-2"
 			(at 30.48 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -25888,6 +26603,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 54.61 132.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f36b36ff-bd63-45aa-8c2a-ae125555d36b")
 		)
@@ -25959,6 +26685,17 @@
 			)
 		)
 		(property "Description" "Generic 1/10W 0603"
+			(at 67.31 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
 			(at 67.31 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -26129,6 +26866,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0603"
+			(at 115.57 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4426f4bf-349f-4d7d-bd6c-651023794fc3")
 		)
@@ -26270,6 +27018,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(property "Package" ""
+			(at 72.39 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "5"
@@ -26450,6 +27209,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0603"
+			(at 259.08 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2aacb3a9-ae06-426e-8210-88ec52430cd5")
 		)
@@ -26521,6 +27291,17 @@
 			)
 		)
 		(property "Description" "Generic 1/4W 1206"
+			(at 121.92 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD1206"
 			(at 121.92 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -26690,6 +27471,17 @@
 				)
 			)
 		)
+		(property "Package" "SMD0603"
+			(at 232.41 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2defc80f-a167-47bf-8af0-ffefd3425a7e")
 		)
@@ -26837,8 +27629,19 @@
 				)
 			)
 		)
-		(property "Description" "X7R, 10%, 50V"
+		(property "Description" "SMD 0805, X7R, 10%, 50V"
 			(at 53.34 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 53.34 102.87 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26998,6 +27801,17 @@
 			)
 		)
 		(property "Description" "Generic 1/10W 0603"
+			(at 29.21 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SMD0603"
 			(at 29.21 57.15 0)
 			(hide yes)
 			(show_name no)

@@ -785,8 +785,8 @@
       "fields_ordered": [
         {
           "group_by": false,
-          "label": "Reference",
-          "name": "Reference",
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
           "show": true
         },
         {
@@ -797,12 +797,18 @@
         },
         {
           "group_by": true,
+          "label": "Reference",
+          "name": "Reference",
+          "show": true
+        },
+        {
+          "group_by": true,
           "label": "Value",
           "name": "Value",
           "show": true
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "DNP",
           "name": "${DNP}",
           "show": false
@@ -823,7 +829,7 @@
           "group_by": true,
           "label": "Footprint",
           "name": "Footprint",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -863,9 +869,21 @@
         },
         {
           "group_by": false,
+          "label": "Package",
+          "name": "Package",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "PN",
+          "name": "PN",
+          "show": true
+        },
+        {
+          "group_by": false,
           "label": "MOUSER",
           "name": "MOUSER",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -881,12 +899,6 @@
         },
         {
           "group_by": false,
-          "label": "PN",
-          "name": "PN",
-          "show": false
-        },
-        {
-          "group_by": false,
           "label": "Sim.Pins",
           "name": "Sim.Pins",
           "show": false
@@ -895,7 +907,7 @@
           "group_by": false,
           "label": "Color",
           "name": "Color",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -905,8 +917,26 @@
         },
         {
           "group_by": false,
-          "label": "#",
-          "name": "${ITEM_NUMBER}",
+          "label": "Sim.Type",
+          "name": "Sim.Type",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Farnell Price/Stock",
+          "name": "Farnell Price/Stock",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Farnell Part Number",
+          "name": "Farnell Part Number",
           "show": false
         }
       ],
@@ -914,8 +944,8 @@
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
-      "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_asc": false,
+      "sort_field": "Farnell Part Number"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,

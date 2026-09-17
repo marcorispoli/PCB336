@@ -771,10 +771,10 @@
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
-      "field_delimiter": ",",
+      "field_delimiter": ";",
       "keep_line_breaks": false,
       "keep_tabs": false,
-      "name": "CSV",
+      "name": "---",
       "ref_delimiter": ",",
       "ref_range_delimiter": "",
       "string_delimiter": "\""
@@ -799,7 +799,7 @@
           "group_by": true,
           "label": "Reference",
           "name": "Reference",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -829,7 +829,7 @@
           "group_by": true,
           "label": "Footprint",
           "name": "Footprint",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -871,24 +871,18 @@
           "group_by": false,
           "label": "Package",
           "name": "Package",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "PN",
           "name": "PN",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "MOUSER",
           "name": "MOUSER",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Mouser Part Number",
-          "name": "Mouser Part Number",
           "show": false
         },
         {
@@ -913,6 +907,12 @@
           "group_by": false,
           "label": "Descrizione",
           "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Part Number",
+          "name": "Mouser Part Number",
           "show": true
         },
         {
@@ -937,15 +937,15 @@
           "group_by": false,
           "label": "Farnell Part Number",
           "name": "Farnell Part Number",
-          "show": false
+          "show": true
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
-      "sort_asc": false,
-      "sort_field": "Farnell Part Number"
+      "sort_asc": true,
+      "sort_field": "Mouser Price/Stock"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,
@@ -1031,7 +1031,12 @@
       }
     ],
     "used_designators": "JP1,FL1-2,TP1-17,RV1-2,F1-2,C1-68,#PWR1-178,T1,L1-3,IC1-15,U1-4,J1-8,D1-37,#FLG1-14,R1-84,Q1-13,K1-4",
-    "variants": []
+    "variants": [
+      {
+        "description": "Lista parti per acquisto materiali per prototipazione",
+        "name": "Acquisto_Prototipo"
+      }
+    ]
   },
   "sheets": [
     [

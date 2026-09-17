@@ -20810,6 +20810,28 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "859-LTST-C171TGKT"
+			(at 246.38 52.07 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "LTST-C171TGKT"
+			(at 246.38 52.07 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a99529bb-3c7d-468e-ace8-689811c64916")
 		)
@@ -20821,6 +20843,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "D2")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -21043,7 +21068,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "C-CASE"
 			(at 88.9 135.89 90)
 			(hide yes)
 			(show_name no)
@@ -21065,6 +21090,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "C13")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -21321,6 +21349,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "C4")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -21490,6 +21521,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "863-NCP1117ST33T3G"
+			(at 162.56 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "03c8c679-0479-4977-8949-f39abb2a26e6")
 		)
@@ -21504,6 +21546,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "U1")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -21685,6 +21730,28 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "859-LTST-C171TGKT"
+			(at 231.14 50.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "LTST-C171TGKT"
+			(at 231.14 50.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "37443415-fb19-4498-9f07-5e19f28fb01b")
 		)
@@ -21696,6 +21763,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "D1")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -21799,6 +21869,28 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "859-LTST-C171TGKT"
+			(at 264.16 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "LTST-C171TGKT"
+			(at 264.16 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7d01cf06-b218-4b97-b109-e580aab5db6e")
 		)
@@ -21810,6 +21902,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "D34")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -21835,7 +21930,7 @@
 				)
 			)
 		)
-		(property "Value" "SolderJumper_2_Bridged"
+		(property "Value" "Jumper"
 			(at 74.93 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -21868,7 +21963,7 @@
 				)
 			)
 		)
-		(property "Description" "Solder Jumper, 2-pole, closed/bridged"
+		(property "Description" "Jumper per unione piani di massa"
 			(at 74.93 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -21901,6 +21996,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "JP1")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -22004,6 +22102,28 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "859-LTST-C171TGKT"
+			(at 262.89 52.07 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "LTST-C171TGKT"
+			(at 262.89 52.07 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "242428b6-b2b0-47eb-bea4-0e37a1d6023d")
 		)
@@ -22015,6 +22135,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "D3")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -22075,7 +22198,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistore 1/4W, 0805"
+		(property "Description" "Generic 1/4W, 0805"
 			(at 231.14 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -22097,6 +22220,28 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "71-CRCW0805-4.7K-E3"
+			(at 231.14 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "CRCW08054K70FKEA"
+			(at 231.14 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3f8cb21e-224a-4a19-a3bd-a71eb424487e")
 		)
@@ -22108,6 +22253,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "R1")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -22252,7 +22400,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "C-CASE"
 			(at 177.8 69.85 90)
 			(hide yes)
 			(show_name no)
@@ -22274,6 +22422,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "C8")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -22416,6 +22567,17 @@
 				)
 			)
 		)
+		(property "PN" "0154003.DRT"
+			(at 35.56 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "df17797c-ee59-4ce5-946a-da2ebb86d2a2")
 		)
@@ -22427,6 +22589,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "F2")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -22565,7 +22730,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistore 1/4W, 0805"
+		(property "Description" "Generic 1/4W, 0805"
 			(at 246.38 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -22587,6 +22752,28 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "71-CRCW0805-4.7K-E3"
+			(at 246.38 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "CRCW08054K70FKEA"
+			(at 246.38 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ec8ac8de-07b7-49f9-a8f4-672ebd10a1d3")
 		)
@@ -22598,6 +22785,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "R2")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -22776,6 +22966,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "C5")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -23077,7 +23270,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "C-CASE"
 			(at 177.8 39.37 90)
 			(hide yes)
 			(show_name no)
@@ -23099,6 +23292,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "C7")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -23253,7 +23449,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "Serie 5000"
 			(at 140.97 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -23272,6 +23468,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "TP1")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -23408,7 +23607,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, double row, 02x02, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Molex Minifit 4.2mm 2x2 Verticale"
 			(at 242.57 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -23441,7 +23640,18 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "39-29-9043"
+			(at 242.57 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "538-39-29-9043"
 			(at 242.57 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -23469,6 +23679,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "J1")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -23623,7 +23836,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "Serie 5000"
 			(at 193.04 34.29 90)
 			(hide yes)
 			(show_name no)
@@ -23642,6 +23855,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "TP4")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -23874,7 +24090,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "Serie 5000"
 			(at 142.24 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -23893,6 +24109,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "TP6")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -24227,6 +24446,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "C2")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -24298,7 +24520,29 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SMD0805"
+			(at 193.04 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-VJ0805Y104KXACWBC"
+			(at 193.04 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "Vari (uso generico)"
 			(at 193.04 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -24320,6 +24564,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "C9")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -24391,7 +24638,29 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SMD0805"
+			(at 191.77 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-VJ0805Y104KXACWBC"
+			(at 191.77 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "Vari (uso generico)"
 			(at 191.77 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -24413,6 +24682,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "C17")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -24567,7 +24839,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "Serie 5000"
 			(at 80.01 106.68 90)
 			(hide yes)
 			(show_name no)
@@ -24586,6 +24858,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "TP3")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -24741,7 +25016,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "Serie 5000"
 			(at 140.97 87.63 90)
 			(hide yes)
 			(show_name no)
@@ -24760,6 +25035,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "TP9")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -24820,7 +25098,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistore 1/4W, 0805"
+		(property "Description" "Generic 1/4W, 0805"
 			(at 264.16 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -24842,6 +25120,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "603-AF0805FR-07680RL"
+			(at 264.16 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7a83bd44-157d-489d-b9a1-79f69e0c050b")
 		)
@@ -24853,6 +25142,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "R79")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -24924,7 +25216,29 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SMD0805"
+			(at 57.15 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-VJ0805Y104KXACWBC"
+			(at 57.15 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "Vari (uso generico)"
 			(at 57.15 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -24946,6 +25260,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "C12")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -25478,6 +25795,17 @@
 				)
 			)
 		)
+		(property "PN" "NJM79L12SU3-TE1"
+			(at 146.05 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "179a5508-c5bc-4db4-a2ad-9bf407b0b0cd")
 		)
@@ -25492,6 +25820,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "IC2")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -25751,6 +26082,28 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "859-LTST-C171TGKT"
+			(at 232.41 96.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "LTST-C171TGKT"
+			(at 232.41 96.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5bad3425-ccca-4741-b034-25eb88600d8c")
 		)
@@ -25762,6 +26115,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "D32")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -25904,6 +26260,17 @@
 				)
 			)
 		)
+		(property "PN" "SRR4828A-8R2Y"
+			(at 64.77 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b1f7fb85-b18a-45f7-a731-cefca86d46d3")
 		)
@@ -25915,6 +26282,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "L1")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -26290,6 +26660,17 @@
 				)
 			)
 		)
+		(property "PN" "BNX012-01"
+			(at 59.69 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "036b5104-dc7d-48aa-ab5a-abc46a9cdbbb")
 		)
@@ -26313,6 +26694,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "FL2")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -26455,6 +26839,17 @@
 				)
 			)
 		)
+		(property "PN" "TSR_0.5-2450"
+			(at 96.52 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "17f35451-5245-4642-890a-aad7940d3c17")
 		)
@@ -26469,6 +26864,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "IC3")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -26607,7 +27005,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistore 1/4W, 0805"
+		(property "Description" "Generic 1/4W, 0805"
 			(at 247.65 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -26629,6 +27027,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "603-AF0805JR-072K2L"
+			(at 247.65 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "66acdc71-79b0-44f1-8c81-0b70658ca417")
 		)
@@ -26640,6 +27049,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "R78")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -26784,7 +27196,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "C-CASE"
 			(at 43.18 135.89 90)
 			(hide yes)
 			(show_name no)
@@ -26806,6 +27218,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "C11")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -26948,6 +27363,17 @@
 				)
 			)
 		)
+		(property "PN" "NJM78L12UA-TE1"
+			(at 146.05 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "0a11c2f8-a2de-4b8a-a7f7-df1e0985d7bb")
 		)
@@ -26962,6 +27388,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "IC1")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -27100,7 +27529,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistore 1/4W, 0805"
+		(property "Description" "Generic 1/4W, 0805"
 			(at 232.41 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -27122,6 +27551,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "603-AF0805JR-072K2L"
+			(at 232.41 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "65dac3dc-00d4-4a60-9ff7-a93a3326de7a")
 		)
@@ -27133,6 +27573,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "R77")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -27277,7 +27720,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "C-CASE"
 			(at 177.8 135.89 90)
 			(hide yes)
 			(show_name no)
@@ -27299,6 +27742,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "C16")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -27554,6 +28000,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "C1")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -27787,7 +28236,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "Serie 5000"
 			(at 193.04 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -27806,6 +28255,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "TP5")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -27948,6 +28400,17 @@
 				)
 			)
 		)
+		(property "PN" "0154003.DRT"
+			(at 35.56 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9255a11f-c537-4e7f-bdf1-3220f59eacf9")
 		)
@@ -27959,6 +28422,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "F1")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -28113,7 +28579,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "Serie 5000"
 			(at 191.77 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -28132,6 +28598,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "TP7")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -28159,7 +28628,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "870R"
+		(property "Value" "866R"
 			(at 265.43 66.0399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28192,7 +28661,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistore 1/4W, 0805"
+		(property "Description" "Generic 1/8W, 0805"
 			(at 262.89 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -28214,6 +28683,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "603-RC0805FR-07866RL"
+			(at 262.89 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c3b307eb-e89c-435a-a284-15257c637d00")
 		)
@@ -28225,6 +28705,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "R3")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -28329,6 +28812,28 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "859-LTST-C171TGKT"
+			(at 247.65 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "LTST-C171TGKT"
+			(at 247.65 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b679c282-c7d9-48a0-a394-6ecb66004291")
 		)
@@ -28340,6 +28845,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "D33")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -28411,7 +28919,29 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SMD0805"
+			(at 193.04 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-VJ0805Y104KXACWBC"
+			(at 193.04 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "Vari (uso generico)"
 			(at 193.04 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -28433,6 +28963,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "C10")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -28660,7 +29193,29 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SMD0805"
+			(at 142.24 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-VJ0805Y104KXACWBC"
+			(at 142.24 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "Vari (uso generico)"
 			(at 142.24 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -28682,6 +29237,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "C15")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -29061,7 +29619,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "C-CASE"
 			(at 128.27 135.89 90)
 			(hide yes)
 			(show_name no)
@@ -29083,6 +29641,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "C14")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -29225,6 +29786,17 @@
 				)
 			)
 		)
+		(property "PN" "BNX012-01"
+			(at 59.69 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dd2f47a0-925e-487a-a34c-99caa0a2e5c6")
 		)
@@ -29248,6 +29820,9 @@
 				(path "/f1a2d35c-afab-4479-8747-9ab1a9f252d1"
 					(reference "FL1")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)

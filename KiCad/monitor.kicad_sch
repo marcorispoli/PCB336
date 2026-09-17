@@ -1978,6 +1978,28 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "637-1N4148W"
+			(at 45.72 91.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "1N4148W"
+			(at 45.72 91.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "db57e2fd-12d2-4511-a361-2890337ad21d")
 		)
@@ -1989,6 +2011,9 @@
 				(path "/dadc61e6-5b36-4438-97bc-9c6f7cdda75a"
 					(reference "D20")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -2092,6 +2117,28 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "637-1N4148W"
+			(at 97.79 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "1N4148W"
+			(at 97.79 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4b074de3-67ee-4821-a66b-ff363259eb53")
 		)
@@ -2103,6 +2150,9 @@
 				(path "/dadc61e6-5b36-4438-97bc-9c6f7cdda75a"
 					(reference "D14")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -2184,6 +2234,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "603-RC0603FR-0710KL"
+			(at 45.72 160.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "da31fbce-45c2-41d2-b9c6-3e168b24f134")
 		)
@@ -2195,6 +2256,9 @@
 				(path "/dadc61e6-5b36-4438-97bc-9c6f7cdda75a"
 					(reference "R56")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -2377,6 +2441,28 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "637-1N4148W"
+			(at 118.11 91.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "1N4148W"
+			(at 118.11 91.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "08393714-77f2-4b42-b6f8-49ae94f59449")
 		)
@@ -2388,6 +2474,9 @@
 				(path "/dadc61e6-5b36-4438-97bc-9c6f7cdda75a"
 					(reference "D15")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -2546,6 +2635,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "603-RC0603FR-07100KL"
+			(at 186.69 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e7352397-0d32-437b-98be-9f66e7174b5f")
 		)
@@ -2557,6 +2657,9 @@
 				(path "/dadc61e6-5b36-4438-97bc-9c6f7cdda75a"
 					(reference "R60")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -2738,6 +2841,28 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "637-1N4148W"
+			(at 118.11 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "1N4148W"
+			(at 118.11 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "951e1ef8-50c8-4521-a8ac-20fb58d716e8")
 		)
@@ -2749,6 +2874,9 @@
 				(path "/dadc61e6-5b36-4438-97bc-9c6f7cdda75a"
 					(reference "D18")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -2930,6 +3058,28 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "637-1N4148W"
+			(at 41.91 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "1N4148W"
+			(at 41.91 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dead7374-e009-4475-b8e6-f122167aa87c")
 		)
@@ -2941,6 +3091,9 @@
 				(path "/dadc61e6-5b36-4438-97bc-9c6f7cdda75a"
 					(reference "D16")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -3022,6 +3175,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "603-RC0603FR-0710KL"
+			(at 137.16 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "37d0391a-8d11-42e6-a4b8-a934ee66f26d")
 		)
@@ -3033,6 +3197,9 @@
 				(path "/dadc61e6-5b36-4438-97bc-9c6f7cdda75a"
 					(reference "R52")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -3192,6 +3359,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "603-RC0603FR-0710KL"
+			(at 54.61 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b383b7b3-471d-4ced-a9f7-0d4001502e54")
 		)
@@ -3203,6 +3381,9 @@
 				(path "/dadc61e6-5b36-4438-97bc-9c6f7cdda75a"
 					(reference "R51")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -3439,6 +3620,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "603-RC0603FR-0710KL"
+			(at 110.49 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "44093ea7-0a37-4fad-b5b4-d2e4fa0b6db8")
 		)
@@ -3450,6 +3642,9 @@
 				(path "/dadc61e6-5b36-4438-97bc-9c6f7cdda75a"
 					(reference "R48")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -3555,6 +3750,28 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "637-1N4148W"
+			(at 53.34 153.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "1N4148W"
+			(at 53.34 153.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4beed36d-cdb9-4d7e-b7c3-5990dfa1a15d")
 		)
@@ -3566,6 +3783,9 @@
 				(path "/dadc61e6-5b36-4438-97bc-9c6f7cdda75a"
 					(reference "D23")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -3647,6 +3867,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "603-RC0603FR-07100KL"
+			(at 48.26 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ee9df9e1-6e09-4ab6-9841-f608e7b9fb66")
 		)
@@ -3658,6 +3889,9 @@
 				(path "/dadc61e6-5b36-4438-97bc-9c6f7cdda75a"
 					(reference "R50")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -3763,6 +3997,28 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "637-1N4148W"
+			(at 186.69 91.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "1N4148W"
+			(at 186.69 91.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b7af00f3-c629-4324-b310-771147e788af")
 		)
@@ -3774,6 +4030,9 @@
 				(path "/dadc61e6-5b36-4438-97bc-9c6f7cdda75a"
 					(reference "D24")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -3877,7 +4136,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "87K"
+		(property "Value" "86K6"
 			(at 125.222 37.592 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3932,6 +4191,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "603-RC0603FR-0786K6L"
+			(at 127 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e5a7b433-ceaf-4522-8a73-14f6e62cfe4a")
 		)
@@ -3943,6 +4213,9 @@
 				(path "/dadc61e6-5b36-4438-97bc-9c6f7cdda75a"
 					(reference "R53")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -4101,6 +4374,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "603-RC0603FR-074K7L"
+			(at 45.72 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1f4e81cf-b3e8-449e-970e-56406b7b4bd0")
 		)
@@ -4112,6 +4396,9 @@
 				(path "/dadc61e6-5b36-4438-97bc-9c6f7cdda75a"
 					(reference "R55")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -4193,6 +4480,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "603-RC0603FR-1022KL"
+			(at 53.34 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4571c7c6-0e2f-4f55-8227-ff138d2e5530")
 		)
@@ -4204,6 +4502,9 @@
 				(path "/dadc61e6-5b36-4438-97bc-9c6f7cdda75a"
 					(reference "R57")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -4387,6 +4688,28 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "637-1N4148W"
+			(at 60.96 35.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "1N4148W"
+			(at 60.96 35.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5c40176b-b01d-4f7f-84c4-c1da6040a8d1")
 		)
@@ -4398,6 +4721,9 @@
 				(path "/dadc61e6-5b36-4438-97bc-9c6f7cdda75a"
 					(reference "D17")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -4479,6 +4805,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "603-RC0603FR-0710KL"
+			(at 179.07 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "97567f50-d04e-44d6-8416-73229f73da36")
 		)
@@ -4490,6 +4827,9 @@
 				(path "/dadc61e6-5b36-4438-97bc-9c6f7cdda75a"
 					(reference "R59")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -4750,6 +5090,28 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "637-1N4148W"
+			(at 137.16 35.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "1N4148W"
+			(at 137.16 35.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9aed8e59-20b0-453d-8997-e49ecdaff51b")
 		)
@@ -4761,6 +5123,9 @@
 				(path "/dadc61e6-5b36-4438-97bc-9c6f7cdda75a"
 					(reference "D19")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -4907,7 +5272,29 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SMD0805"
+			(at 128.27 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-VJ0805Y104KXACWBC"
+			(at 128.27 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "Vari (uso generico)"
 			(at 128.27 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -4929,6 +5316,9 @@
 				(path "/dadc61e6-5b36-4438-97bc-9c6f7cdda75a"
 					(reference "C50")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -5032,6 +5422,28 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "637-1N4148W"
+			(at 170.18 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "1N4148W"
+			(at 170.18 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "abdbbdd1-fb70-4e9a-ac73-05654e773673")
 		)
@@ -5043,6 +5455,9 @@
 				(path "/dadc61e6-5b36-4438-97bc-9c6f7cdda75a"
 					(reference "D22")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -5124,6 +5539,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "603-AF0603FR-075K6L"
+			(at 38.1 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0b6e85c4-4d49-48b4-abe3-d7ea730ef470")
 		)
@@ -5135,6 +5561,9 @@
 				(path "/dadc61e6-5b36-4438-97bc-9c6f7cdda75a"
 					(reference "R54")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -5216,6 +5645,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "603-RC0603FR-07100KL"
+			(at 118.11 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9ef7c7a0-e8f5-483c-81c6-48daf0fcac2c")
 		)
@@ -5227,6 +5667,9 @@
 				(path "/dadc61e6-5b36-4438-97bc-9c6f7cdda75a"
 					(reference "R49")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -5295,7 +5738,29 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SMD0805"
+			(at 63.5 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-VJ0805Y104KXACWBC"
+			(at 63.5 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "Vari (uso generico)"
 			(at 63.5 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -5317,6 +5782,9 @@
 				(path "/dadc61e6-5b36-4438-97bc-9c6f7cdda75a"
 					(reference "C51")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)

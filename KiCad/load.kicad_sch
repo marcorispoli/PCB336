@@ -6877,7 +6877,29 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SMD0805"
+			(at 87.63 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-VJ0805Y104KXACWBC"
+			(at 87.63 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "Vari (uso generico)"
 			(at 87.63 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -6899,6 +6921,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "C54")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -7140,6 +7165,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "C59")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -7222,6 +7250,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "603-AA0603FR-072K2L"
+			(at 104.14 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "23a2b359-1b89-45a5-b3b6-b0d28d112c23")
 		)
@@ -7233,6 +7272,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "R65")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -7302,7 +7344,29 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SMD0805"
+			(at 38.1 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-VJ0805Y104KXACWBC"
+			(at 38.1 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "Vari (uso generico)"
 			(at 38.1 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -7324,6 +7388,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "C53")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -7419,6 +7486,28 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "863-2N7002LT3G"
+			(at 236.22 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "2N7002LT1G"
+			(at 236.22 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e07a454a-bcaf-4801-8b37-4d16f336a14e")
 		)
@@ -7433,6 +7522,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "Q11")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -7493,7 +7585,7 @@
 				)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "Ultra Fast Recovery Rectifiers, 1A, 50V"
 			(at 113.03 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -7548,6 +7640,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "512-ES1A"
+			(at 113.03 54.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f46c8bb4-320c-4bf5-b977-dd54091e10bb")
 		)
@@ -7559,6 +7662,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "D26")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -7628,7 +7734,29 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SMD0805"
+			(at 39.37 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-VJ0805Y104KXACWBC"
+			(at 39.37 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "Vari (uso generico)"
 			(at 39.37 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -7650,6 +7778,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "C52")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -7808,6 +7939,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "603-RC0603FR-101KL"
+			(at 96.52 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f1fc04d2-bbeb-4d4e-8644-211f82b927c0")
 		)
@@ -7819,6 +7961,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "R64")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -7963,7 +8108,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "C-CASE"
 			(at 83.82 161.29 90)
 			(hide yes)
 			(show_name no)
@@ -7985,6 +8130,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "C58")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -8147,7 +8295,7 @@
 				(justify left top)
 			)
 		)
-		(property "Farnell Part Number" ""
+		(property "Farnell Part Number" "4244646"
 			(at 147.32 548.26 0)
 			(hide yes)
 			(show_name no)
@@ -8206,7 +8354,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "32.21.7.024.4000"
 			(at 118.11 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -8237,6 +8385,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "K2")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -8410,6 +8561,28 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "863-2N7002LT3G"
+			(at 175.26 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "2N7002LT1G"
+			(at 175.26 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "12303c59-6e40-42c8-8214-94a506955c60")
 		)
@@ -8424,6 +8597,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "Q10")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -8584,6 +8760,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "603-RC0603FR-0710KL"
+			(at 223.52 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "abb60d76-d704-4a6e-a554-091ae3f7afed")
 		)
@@ -8595,6 +8782,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "R67")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -8757,7 +8947,7 @@
 				(justify left top)
 			)
 		)
-		(property "Farnell Part Number" ""
+		(property "Farnell Part Number" "4244646"
 			(at 212.09 545.72 0)
 			(hide yes)
 			(show_name no)
@@ -8816,7 +9006,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "32.21.7.024.4000"
 			(at 182.88 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -8847,6 +9037,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "K3")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -9020,6 +9213,28 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "863-2N7002LT3G"
+			(at 41.91 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "2N7002LT1G"
+			(at 41.91 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "01f54846-4a05-45e5-ba44-8b6448259fca")
 		)
@@ -9034,6 +9249,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "Q9")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -9172,7 +9390,7 @@
 				)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "Ultra Fast Recovery Rectifiers, 1A, 50V"
 			(at 44.45 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -9227,6 +9445,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "512-ES1A"
+			(at 44.45 55.88 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "620e46fd-d729-4fab-9a39-6b53cb84ebfa")
 		)
@@ -9238,6 +9467,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "D25")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -9470,7 +9702,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "Serie 5000"
 			(at 251.46 114.3 90)
 			(hide yes)
 			(show_name no)
@@ -9489,6 +9721,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "TP17")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -9643,7 +9878,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "Serie 5000"
 			(at 262.89 114.3 90)
 			(hide yes)
 			(show_name no)
@@ -9662,6 +9897,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "TP16")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -9844,6 +10082,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "J4")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -10238,6 +10479,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "603-RV0603JR-0733KL"
+			(at 167.64 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "66248cc2-749a-449a-aa92-cba6027f8452")
 		)
@@ -10249,6 +10501,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "R62")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -10331,6 +10586,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "603-RV0603JR-0733KL"
+			(at 228.6 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b96900af-8a92-41d7-8265-8e9a30dd2930")
 		)
@@ -10342,6 +10608,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "R63")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -10437,6 +10706,28 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "863-2N7002LT3G"
+			(at 110.49 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "2N7002LT1G"
+			(at 110.49 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f8b0fc67-d693-4ac9-8ae9-1432afc4e6b6")
 		)
@@ -10451,6 +10742,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "Q8")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -10595,7 +10889,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "C-CASE"
 			(at 40.64 161.29 90)
 			(hide yes)
 			(show_name no)
@@ -10617,6 +10911,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "C57")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -10677,7 +10974,7 @@
 				)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "Ultra Fast Recovery Rectifiers, 1A, 50V"
 			(at 177.8 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -10732,6 +11029,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "512-ES1A"
+			(at 177.8 53.34 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ca0e5c4c-73b8-4454-a6d5-76b7cbad213b")
 		)
@@ -10743,6 +11051,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "D27")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -10800,7 +11111,7 @@
 				)
 			)
 		)
-		(property "Description" "SMD 0805, X7R, 10%, 50V"
+		(property "Description" "SMD 0805, C0G, 10%, 50V"
 			(at 115.57 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -10811,7 +11122,29 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SMD0805"
+			(at 115.57 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "80-C0805C103J5G"
+			(at 115.57 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "C0805C103J5GACTU"
 			(at 115.57 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -10833,6 +11166,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "C56")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -10993,6 +11329,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "603-RV0603JR-0733KL"
+			(at 34.29 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fb54afbe-6d1d-4383-85b6-6c6495ad4dc5")
 		)
@@ -11004,6 +11351,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "R61")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -11158,7 +11508,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "Serie 5000"
 			(at 104.14 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -11177,6 +11527,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "TP15")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -11245,7 +11598,29 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SMD0805"
+			(at 87.63 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-VJ0805Y104KXACWBC"
+			(at 87.63 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "Vari (uso generico)"
 			(at 87.63 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -11267,6 +11642,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "C55")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -11350,7 +11728,7 @@
 				(justify left top)
 			)
 		)
-		(property "Farnell Part Number" ""
+		(property "Farnell Part Number" "4244646"
 			(at 78.74 548.26 0)
 			(hide yes)
 			(show_name no)
@@ -11409,7 +11787,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "32.21.7.024.4000"
 			(at 49.53 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -11440,6 +11818,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "K1")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -11656,7 +12037,7 @@
 				)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "Ultra Fast Recovery Rectifiers, 1A, 50V"
 			(at 238.76 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -11711,6 +12092,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "512-ES1A"
+			(at 238.76 49.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5c4489e5-19cd-4f7d-b470-7373789f0396")
 		)
@@ -11722,6 +12114,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "D28")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -11804,7 +12199,18 @@
 				)
 			)
 		)
-		(property "Package" "SMW210RJT"
+		(property "Package" "SMD2616"
+			(at 228.6 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "571-SMW210RJT"
 			(at 228.6 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -11826,6 +12232,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "R66")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -11934,6 +12343,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "U4")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -12336,6 +12748,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "D29")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -12418,6 +12833,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "603-RC0603JR-070RL"
+			(at 213.36 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "62d1e738-9311-4196-899b-7bddf6c78745")
 		)
@@ -12429,6 +12855,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "R76")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -12636,6 +13065,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "IC8")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -12798,7 +13230,7 @@
 				(justify left top)
 			)
 		)
-		(property "Farnell Part Number" ""
+		(property "Farnell Part Number" "4244646"
 			(at 273.05 541.91 0)
 			(hide yes)
 			(show_name no)
@@ -12857,7 +13289,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "32.21.7.024.4000"
 			(at 243.84 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -12888,6 +13320,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "K4")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -13048,6 +13483,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "603-RV0603JR-0733KL"
+			(at 102.87 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "cf61f682-cb3a-4f58-9c56-4658786b087e")
 		)
@@ -13059,6 +13505,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "R58")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)
@@ -13205,7 +13654,29 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SMD0805"
+			(at 238.76 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-VJ0805Y104KXACWBC"
+			(at 238.76 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PN" "Vari (uso generico)"
 			(at 238.76 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -13227,6 +13698,9 @@
 				(path "/6640e7ba-894d-44e2-8d1f-5f54c3405dee"
 					(reference "C60")
 					(unit 1)
+					(variant
+						(name "Acquisto_Prototipo")
+					)
 				)
 			)
 		)

@@ -1,0 +1,2 @@
+Modificare resistenza R7 e R10 su PCB219:
+passare da 2k7 a 1K35.
